@@ -44,4 +44,6 @@ This project started a few months ago and now a more detailed analysis is comple
   ## Contact:
 
   [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]  https://www.linkedin.com/in/andrés-rojo-cabrera-047ba2124/
-
+  
+  Project Link: https://github.com/andyrouge81/Titanic-DataFrame/tree/main
+  
