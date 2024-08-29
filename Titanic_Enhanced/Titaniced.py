@@ -1,23 +1,14 @@
 #---LIBRERÍAS EMPLEADAS---#
-import numpy as np 
+
 import pandas as pd 
-import seaborn as sns
-import matplotlib.pyplot as plt
 import plotly_express as px
 import streamlit as st
-import plotly as pt
 from streamlit_folium import st_folium
-import folium
 from streamlit_folium import folium_static
 from streamlit_option_menu import option_menu
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder, StandardScaler
-from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import classification_report
-from sklearn.ensemble import RandomForestClassifier
-import requests
-import json
+
 
 
 #---Nombre y configuración---#
@@ -79,8 +70,9 @@ menu = st.sidebar.radio("Selecciona una opción:", ["Inicio", "Filtros", "EDA", 
 #---Inicio---#
 if menu =="Inicio":
     
-    st.markdown("<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 60px; margin: 0; text-shadow: 6px 6px 6px #000000;'>El Titanic: </h1></div>", unsafe_allow_html=True)
-    
+    st.markdown("<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 60px; margin: 0; text-shadow: 6px 6px 6px #000000;'>El Titanic</h1></div>", unsafe_allow_html=True)
+    st.divider()
+    st.image('images/the-steamship-titanic1280x775.jpg')
     st.markdown("<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 40px; margin: 0; text-shadow: 6px 6px 6px #000000;'>Contexto y catastrofe</h1></div>", unsafe_allow_html=True)
     st.divider()
     st.markdown(
@@ -321,3 +313,83 @@ if menu == "EDA":
                 hubiera tenido la mala suerte de no sobrevivir al hundimiento del Titanic.
                 </div>
                 """, unsafe_allow_html=True)
+
+#---POWERBI---#    
+if menu == "Power Bi":
+    st.markdown("<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 70px; margin: 0; text-shadow: 6px 6px 6px #000000;'>Panel de Power Bi 📈</h1></div>", unsafe_allow_html=True)
+    
+    power_bi_html = '''
+    <iframe title="Titanic_PowerBi" width="1440" height="900" src="https://app.powerbi.com/view?r=eyJrIjoiNWZmZjA5ODUtNGVjNC00ZTgyLWJhNTMtOWFhYzNiMDRjNzczIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+    '''
+
+    # Mostramos el iframe en Streamlit usando html
+    st.components.v1.html(power_bi_html, width=1440, height=900)
+
+#---MODELO---#    
+if menu == "Modelo":
+
+    st.markdown("""<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 50px; margin: 0; text-shadow: 6px 6px 6px #000000;'>Modelo de clasificación</h1></div>""", unsafe_allow_html=True)
+    
+    
+    st.divider()
+
+    st.markdown(
+                """
+                <div style="padding: 24px; color: #ffffff; font-size: 30px;">
+                Para este análisis hemos realizado un modelo de regresión, el cual ha sido entrenado con <b>RandonForest</b>.
+                Este modelo de clasificación nos ha dado muy buenos resultados:  
+                Nuestra variable target(objetivo) es <b>Superviviente</b>, la cual hemos convertido en 1 y 0, gracias a un encodeado, en este caso hemos utilizado, "LabelEncoder".
+                Una vez traducidos los datos para que la máquina los pueda ententer, los hemos entrenado para que nos de la probabilidad tanto de supervivencia como de fallecimiento
+                según el dataset proporcionado.  
+                En este estudio el 0 representa los fallecidos y el 1 representa la proobabilidad de supervivencia. Ahora nos fijamos en el resultado obetnido de la pestaña <b>f1-score</b>,
+                el cual nos da dos datos aceptables, la supervivencia nos da un 78% mientras que de fallecidos nos da un 86% de probabilidad, dichos datos son más que aceptables, 
+                teniendo en cuenta que no hemos utilizado ningún otro modelo para poder comprar las métricas.
+                </div>
+                """, unsafe_allow_html=True)
+
+    st.image('images/modelotitanic.png', use_column_width='auto')
+
+#---CONCLUSIÓN---#    
+if menu == "Conclusión":
+
+    st.markdown("""<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 50px; margin: 0; text-shadow: 6px 6px 6px #000000;'</h1>Conclusión</div>""", unsafe_allow_html=True)
+    
+    
+    st.divider()
+
+
+    col9, col10 = st.columns(2)
+
+    with col9:
+            
+            st.markdown("""<div style='padding: 10px; border-radius: 5px;'><h1 style='text-align: center; color: #ffffff; font-size: 30px; margin: 0; text-shadow: 6px 6px 6px #000000;'</h1>Contexto</div>""", unsafe_allow_html=True)
+            
+            st.markdown(
+                        """
+                        <div style="padding: 24px; color: #ffffff; font-size: 30px;">
+                        La frase "Birkenhead Drill" no es muy conocida, pero seguro que conocemos la traducción, "mujeres y niños en todo". Fue un código de conducta el cual consistía en salvar en caso de catastrofe a las mujeres y niños primero,
+                        en nuestro caso, en el naufragio del Titanic lo extrapolamos a que las mayoría de los supervivientes fueron mujeres y sus respectivos familiares directos, es decir, hijos. 
+                        En el caso del RMS Titanic otro factor importante de una alta tasa de fallecidos fue que solo tenía un tercio de botes salvavidas de la capacidad total del navío.
+                        </div>
+                        """, unsafe_allow_html=True)
+    with col10:
+
+            st.image('images/joke.jpg', use_column_width='auto')
+    
+
+st.markdown(
+                        """
+                        <div style="padding: 24px; color: #ffffff; font-size: 30px;">
+                        En los siglos XIX y XX la expresión "mujeres y niños primero" se consideraba un ideal caballeresco, fue considerado como una tradición, como una "antigua caballería del mar", su práctica aparecía en relatos sobre naufragios del siglo XVIII.
+                        La expresión proviene del naufragio del buque de guerra "HMS Birkenhead" en la cual se utilizó dicha celebre expresión para establecer una tradición de caballerosidad inglesa
+                        durante la segunda mitad del siglo XIX.
+                        </div>
+                        """, unsafe_allow_html=True)
+
+
+st.markdown(
+                        """
+                        <div style="padding: 24px; color: #ffffff; font-size: 30px;">
+                        Según expertos en evaciaciones actuales se suele ayudar a escapar primero a los más vulnerables, que suelen ser los heridos, los ancianos o los niños más pequeños.
+                        </div>
+                        """, unsafe_allow_html=True)
