@@ -1,0 +1,892 @@
+,PassengerId,Superviviente,Clase,Nombre,Sexo,Edad,Hermacon,Numfamilia,Precio_pasaje,Puerta_embarque,Estado,Rango_Edad
+0,1,Muerto,Tercera,"Braund, Mr. Owen Harris",Hombre,22.0,1,0,7.25,Southamptom,Acompañado,Adultos
+1,2,Vivo,Primera,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Mujer,38.0,1,0,71.28,Cherbourg,Acompañado,Adultos
+2,3,Vivo,Tercera,"Heikkinen, Miss. Laina",Mujer,26.0,0,0,7.92,Southamptom,Solo,Adultos
+3,4,Vivo,Primera,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Mujer,35.0,1,0,53.1,Southamptom,Acompañado,Adultos
+4,5,Muerto,Tercera,"Allen, Mr. William Henry",Hombre,35.0,0,0,8.05,Southamptom,Solo,Adultos
+5,6,Muerto,Tercera,"Moran, Mr. James",Hombre,29.0,0,0,8.46,Queenstown,Solo,Adultos
+6,7,Muerto,Primera,"McCarthy, Mr. Timothy J",Hombre,54.0,0,0,51.86,Southamptom,Solo,Mayores
+7,8,Muerto,Tercera,"Palsson, Master. Gosta Leonard",Hombre,22.0,3,1,21.08,Southamptom,Acompañado,Adultos
+8,9,Vivo,Tercera,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Mujer,27.0,0,2,11.13,Southamptom,Acompañado,Adultos
+9,10,Vivo,Segunda,"Nasser, Mrs. Nicholas (Adele Achem)",Mujer,14.0,1,0,30.07,Cherbourg,Acompañado,Menores
+10,11,Vivo,Tercera,"Sandstrom, Miss. Marguerite Rut",Mujer,4.0,1,1,16.7,Southamptom,Acompañado,Menores
+11,12,Vivo,Primera,"Bonnell, Miss. Elizabeth",Mujer,35.0,0,0,26.55,Southamptom,Solo,Adultos
+12,13,Muerto,Tercera,"Saundercock, Mr. William Henry",Hombre,20.0,0,0,8.05,Southamptom,Solo,Adultos
+13,14,Muerto,Tercera,"Andersson, Mr. Anders Johan",Hombre,39.0,1,5,31.28,Southamptom,Acompañado,Adultos
+14,15,Muerto,Tercera,"Vestrom, Miss. Hulda Amanda Adolfina",Mujer,14.0,0,0,7.85,Southamptom,Solo,Menores
+15,16,Vivo,Segunda,"Hewlett, Mrs. (Mary D Kingcome) ",Mujer,35.0,0,0,16.0,Southamptom,Solo,Adultos
+16,17,Muerto,Tercera,"Rice, Master. Eugene",Hombre,22.0,4,1,29.12,Queenstown,Acompañado,Adultos
+17,18,Vivo,Segunda,"Williams, Mr. Charles Eugene",Hombre,29.0,0,0,13.0,Southamptom,Solo,Adultos
+18,19,Muerto,Tercera,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Mujer,31.0,1,0,18.0,Southamptom,Acompañado,Adultos
+19,20,Vivo,Tercera,"Masselmani, Mrs. Fatima",Mujer,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+20,21,Muerto,Segunda,"Fynney, Mr. Joseph J",Hombre,35.0,0,0,26.0,Southamptom,Solo,Adultos
+21,22,Vivo,Segunda,"Beesley, Mr. Lawrence",Hombre,34.0,0,0,13.0,Southamptom,Solo,Adultos
+22,23,Vivo,Tercera,"McGowan, Miss. Anna ""Annie""",Mujer,15.0,0,0,8.03,Queenstown,Solo,Menores
+23,24,Vivo,Primera,"Sloper, Mr. William Thompson",Hombre,28.0,0,0,35.5,Southamptom,Solo,Adultos
+24,25,Muerto,Tercera,"Palsson, Miss. Torborg Danira",Mujer,8.0,3,1,21.08,Southamptom,Acompañado,Menores
+25,26,Vivo,Tercera,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Mujer,38.0,1,5,31.39,Southamptom,Acompañado,Adultos
+26,27,Muerto,Tercera,"Emir, Mr. Farred Chehab",Hombre,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+27,28,Muerto,Primera,"Fortune, Mr. Charles Alexander",Hombre,19.0,3,2,263.0,Southamptom,Acompañado,Adultos
+28,29,Vivo,Tercera,"O'Dwyer, Miss. Ellen ""Nellie""",Mujer,29.0,0,0,7.88,Queenstown,Solo,Adultos
+29,30,Muerto,Tercera,"Todoroff, Mr. Lalio",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+30,31,Muerto,Primera,"Uruchurtu, Don. Manuel E",Hombre,40.0,0,0,27.72,Cherbourg,Solo,Adultos
+31,32,Vivo,Primera,"Spencer, Mrs. William Augustus (Marie Eugenie)",Mujer,29.0,1,0,146.52,Cherbourg,Acompañado,Adultos
+32,33,Vivo,Tercera,"Glynn, Miss. Mary Agatha",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+33,34,Muerto,Segunda,"Wheadon, Mr. Edward H",Hombre,35.0,0,0,10.5,Southamptom,Solo,Adultos
+34,35,Muerto,Primera,"Meyer, Mr. Edgar Joseph",Hombre,28.0,1,0,82.17,Cherbourg,Acompañado,Adultos
+35,36,Muerto,Primera,"Holverson, Mr. Alexander Oskar",Hombre,42.0,1,0,52.0,Southamptom,Acompañado,Adultos
+36,37,Vivo,Tercera,"Mamee, Mr. Hanna",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+37,38,Muerto,Tercera,"Cann, Mr. Ernest Charles",Hombre,21.0,0,0,8.05,Southamptom,Solo,Adultos
+38,39,Muerto,Tercera,"Vander Planke, Miss. Augusta Maria",Mujer,18.0,2,0,18.0,Southamptom,Acompañado,Adultos
+39,40,Vivo,Tercera,"Nicola-Yarred, Miss. Jamila",Mujer,14.0,1,0,11.24,Cherbourg,Acompañado,Menores
+40,41,Muerto,Tercera,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Mujer,40.0,1,0,9.48,Southamptom,Acompañado,Adultos
+41,42,Muerto,Segunda,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Mujer,27.0,1,0,21.0,Southamptom,Acompañado,Adultos
+42,43,Muerto,Tercera,"Kraeff, Mr. Theodor",Hombre,29.0,0,0,7.9,Cherbourg,Solo,Adultos
+43,44,Vivo,Segunda,"Laroche, Miss. Simonne Marie Anne Andree",Mujer,3.0,1,2,41.58,Cherbourg,Acompañado,Menores
+44,45,Vivo,Tercera,"Devaney, Miss. Margaret Delia",Mujer,19.0,0,0,7.88,Queenstown,Solo,Adultos
+45,46,Muerto,Tercera,"Rogers, Mr. William John",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+46,47,Muerto,Tercera,"Lennon, Mr. Denis",Hombre,29.0,1,0,15.5,Queenstown,Acompañado,Adultos
+47,48,Vivo,Tercera,"O'Driscoll, Miss. Bridget",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+48,49,Muerto,Tercera,"Samaan, Mr. Youssef",Hombre,29.0,2,0,21.68,Cherbourg,Acompañado,Adultos
+49,50,Muerto,Tercera,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Mujer,18.0,1,0,17.8,Southamptom,Acompañado,Adultos
+50,51,Muerto,Tercera,"Panula, Master. Juha Niilo",Hombre,7.0,4,1,39.69,Southamptom,Acompañado,Menores
+51,52,Muerto,Tercera,"Nosworthy, Mr. Richard Cater",Hombre,21.0,0,0,7.8,Southamptom,Solo,Adultos
+52,53,Vivo,Primera,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Mujer,49.0,1,0,76.73,Cherbourg,Acompañado,Adultos
+53,54,Vivo,Segunda,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Mujer,29.0,1,0,26.0,Southamptom,Acompañado,Adultos
+54,55,Muerto,Primera,"Ostby, Mr. Engelhart Cornelius",Hombre,35.0,0,1,61.98,Cherbourg,Acompañado,Adultos
+55,56,Vivo,Primera,"Woolner, Mr. Hugh",Hombre,29.0,0,0,35.5,Southamptom,Solo,Adultos
+56,57,Vivo,Segunda,"Rugg, Miss. Emily",Mujer,21.0,0,0,10.5,Southamptom,Solo,Adultos
+57,58,Muerto,Tercera,"Novel, Mr. Mansouer",Hombre,28.0,0,0,7.23,Cherbourg,Solo,Adultos
+58,59,Vivo,Segunda,"West, Miss. Constance Mirium",Mujer,5.0,1,2,27.75,Southamptom,Acompañado,Menores
+59,60,Muerto,Tercera,"Goodwin, Master. William Frederick",Hombre,11.0,5,2,46.9,Southamptom,Acompañado,Menores
+60,61,Muerto,Tercera,"Sirayanian, Mr. Orsen",Hombre,22.0,0,0,7.23,Cherbourg,Solo,Adultos
+61,62,Vivo,Primera,"Icard, Miss. Amelie",Mujer,38.0,0,0,80.0,Southamptom,Solo,Adultos
+62,63,Muerto,Primera,"Harris, Mr. Henry Birkhardt",Hombre,45.0,1,0,83.48,Southamptom,Acompañado,Adultos
+63,64,Muerto,Tercera,"Skoog, Master. Harald",Hombre,4.0,3,2,27.9,Southamptom,Acompañado,Menores
+64,65,Muerto,Primera,"Stewart, Mr. Albert A",Hombre,29.0,0,0,27.72,Cherbourg,Solo,Adultos
+65,66,Vivo,Tercera,"Moubarek, Master. Gerios",Hombre,29.0,1,1,15.25,Cherbourg,Acompañado,Adultos
+66,67,Vivo,Segunda,"Nye, Mrs. (Elizabeth Ramell)",Mujer,29.0,0,0,10.5,Southamptom,Solo,Adultos
+67,68,Muerto,Tercera,"Crease, Mr. Ernest James",Hombre,19.0,0,0,8.16,Southamptom,Solo,Adultos
+68,69,Vivo,Tercera,"Andersson, Miss. Erna Alexandra",Mujer,17.0,4,2,7.92,Southamptom,Acompañado,Adultos
+69,70,Muerto,Tercera,"Kink, Mr. Vincenz",Hombre,26.0,2,0,8.66,Southamptom,Acompañado,Adultos
+70,71,Muerto,Segunda,"Jenkin, Mr. Stephen Curnow",Hombre,32.0,0,0,10.5,Southamptom,Solo,Adultos
+71,72,Muerto,Tercera,"Goodwin, Miss. Lillian Amy",Mujer,16.0,5,2,46.9,Southamptom,Acompañado,Adultos
+72,73,Muerto,Segunda,"Hood, Mr. Ambrose Jr",Hombre,21.0,0,0,73.5,Southamptom,Solo,Adultos
+73,74,Muerto,Tercera,"Chronopoulos, Mr. Apostolos",Hombre,26.0,1,0,14.45,Cherbourg,Acompañado,Adultos
+74,75,Vivo,Tercera,"Bing, Mr. Lee",Hombre,32.0,0,0,56.5,Southamptom,Solo,Adultos
+75,76,Muerto,Tercera,"Moen, Mr. Sigurd Hansen",Hombre,25.0,0,0,7.65,Southamptom,Solo,Adultos
+76,77,Muerto,Tercera,"Staneff, Mr. Ivan",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+77,78,Muerto,Tercera,"Moutal, Mr. Rahamin Haim",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+78,79,Vivo,Segunda,"Caldwell, Master. Alden Gates",Hombre,22.0,0,2,29.0,Southamptom,Acompañado,Adultos
+79,80,Vivo,Tercera,"Dowdell, Miss. Elizabeth",Mujer,30.0,0,0,12.48,Southamptom,Solo,Adultos
+80,81,Muerto,Tercera,"Waelens, Mr. Achille",Hombre,22.0,0,0,9.0,Southamptom,Solo,Adultos
+81,82,Vivo,Tercera,"Sheerlinck, Mr. Jan Baptist",Hombre,29.0,0,0,9.5,Southamptom,Solo,Adultos
+82,83,Vivo,Tercera,"McDermott, Miss. Brigdet Delia",Mujer,29.0,0,0,7.79,Queenstown,Solo,Adultos
+83,84,Muerto,Primera,"Carrau, Mr. Francisco M",Hombre,28.0,0,0,47.1,Southamptom,Solo,Adultos
+84,85,Vivo,Segunda,"Ilett, Miss. Bertha",Mujer,17.0,0,0,10.5,Southamptom,Solo,Adultos
+85,86,Vivo,Tercera,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Mujer,33.0,3,0,15.85,Southamptom,Acompañado,Adultos
+86,87,Muerto,Tercera,"Ford, Mr. William Neal",Hombre,16.0,1,3,34.38,Southamptom,Acompañado,Adultos
+87,88,Muerto,Tercera,"Slocovski, Mr. Selman Francis",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+88,89,Vivo,Primera,"Fortune, Miss. Mabel Helen",Mujer,23.0,3,2,263.0,Southamptom,Acompañado,Adultos
+89,90,Muerto,Tercera,"Celotti, Mr. Francesco",Hombre,24.0,0,0,8.05,Southamptom,Solo,Adultos
+90,91,Muerto,Tercera,"Christmann, Mr. Emil",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+91,92,Muerto,Tercera,"Andreasson, Mr. Paul Edvin",Hombre,20.0,0,0,7.85,Southamptom,Solo,Adultos
+92,93,Muerto,Primera,"Chaffee, Mr. Herbert Fuller",Hombre,46.0,1,0,61.18,Southamptom,Acompañado,Adultos
+93,94,Muerto,Tercera,"Dean, Mr. Bertram Frank",Hombre,26.0,1,2,20.58,Southamptom,Acompañado,Adultos
+94,95,Muerto,Tercera,"Coxon, Mr. Daniel",Hombre,35.0,0,0,7.25,Southamptom,Solo,Adultos
+95,96,Muerto,Tercera,"Shorney, Mr. Charles Joseph",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+96,97,Muerto,Primera,"Goldschmidt, Mr. George B",Hombre,35.0,0,0,34.65,Cherbourg,Solo,Adultos
+97,98,Vivo,Primera,"Greenfield, Mr. William Bertram",Hombre,23.0,0,1,63.36,Cherbourg,Acompañado,Adultos
+98,99,Vivo,Segunda,"Doling, Mrs. John T (Ada Julia Bone)",Mujer,34.0,0,1,23.0,Southamptom,Acompañado,Adultos
+99,100,Muerto,Segunda,"Kantor, Mr. Sinai",Hombre,34.0,1,0,26.0,Southamptom,Acompañado,Adultos
+100,101,Muerto,Tercera,"Petranec, Miss. Matilda",Mujer,28.0,0,0,7.9,Southamptom,Solo,Adultos
+101,102,Muerto,Tercera,"Petroff, Mr. Pastcho (""Pentcho"")",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+102,103,Muerto,Primera,"White, Mr. Richard Frasar",Hombre,21.0,0,1,77.29,Southamptom,Acompañado,Adultos
+103,104,Muerto,Tercera,"Johansson, Mr. Gustaf Joel",Hombre,33.0,0,0,8.65,Southamptom,Solo,Adultos
+104,105,Muerto,Tercera,"Gustafsson, Mr. Anders Vilhelm",Hombre,37.0,2,0,7.92,Southamptom,Acompañado,Adultos
+105,106,Muerto,Tercera,"Mionoff, Mr. Stoytcho",Hombre,28.0,0,0,7.9,Southamptom,Solo,Adultos
+106,107,Vivo,Tercera,"Salkjelsvik, Miss. Anna Kristine",Mujer,21.0,0,0,7.65,Southamptom,Solo,Adultos
+107,108,Vivo,Tercera,"Moss, Mr. Albert Johan",Hombre,29.0,0,0,7.78,Southamptom,Solo,Adultos
+108,109,Muerto,Tercera,"Rekic, Mr. Tido",Hombre,38.0,0,0,7.9,Southamptom,Solo,Adultos
+109,110,Vivo,Tercera,"Moran, Miss. Bertha",Mujer,29.0,1,0,24.15,Queenstown,Acompañado,Adultos
+110,111,Muerto,Primera,"Porter, Mr. Walter Chamberlain",Hombre,47.0,0,0,52.0,Southamptom,Solo,Adultos
+111,112,Muerto,Tercera,"Zabour, Miss. Hileni",Mujer,14.0,1,0,14.45,Cherbourg,Acompañado,Menores
+112,113,Muerto,Tercera,"Barton, Mr. David John",Hombre,22.0,0,0,8.05,Southamptom,Solo,Adultos
+113,114,Muerto,Tercera,"Jussila, Miss. Katriina",Mujer,20.0,1,0,9.82,Southamptom,Acompañado,Adultos
+114,115,Muerto,Tercera,"Attalah, Miss. Malake",Mujer,17.0,0,0,14.46,Cherbourg,Solo,Adultos
+115,116,Muerto,Tercera,"Pekoniemi, Mr. Edvard",Hombre,21.0,0,0,7.92,Southamptom,Solo,Adultos
+116,117,Muerto,Tercera,"Connors, Mr. Patrick",Hombre,35.0,0,0,7.75,Queenstown,Solo,Adultos
+117,118,Muerto,Segunda,"Turpin, Mr. William John Robert",Hombre,29.0,1,0,21.0,Southamptom,Acompañado,Adultos
+118,119,Muerto,Primera,"Baxter, Mr. Quigg Edmond",Hombre,24.0,0,1,247.52,Cherbourg,Acompañado,Adultos
+119,120,Muerto,Tercera,"Andersson, Miss. Ellis Anna Maria",Mujer,22.0,4,2,31.28,Southamptom,Acompañado,Adultos
+120,121,Muerto,Segunda,"Hickman, Mr. Stanley George",Hombre,21.0,2,0,73.5,Southamptom,Acompañado,Adultos
+121,122,Muerto,Tercera,"Moore, Mr. Leonard Charles",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+122,123,Muerto,Segunda,"Nasser, Mr. Nicholas",Hombre,32.0,1,0,30.07,Cherbourg,Acompañado,Adultos
+123,124,Vivo,Segunda,"Webber, Miss. Susan",Mujer,32.0,0,0,13.0,Southamptom,Solo,Adultos
+124,125,Muerto,Primera,"White, Mr. Percival Wayland",Hombre,54.0,0,1,77.29,Southamptom,Acompañado,Mayores
+125,126,Vivo,Tercera,"Nicola-Yarred, Master. Elias",Hombre,12.0,1,0,11.24,Cherbourg,Acompañado,Menores
+126,127,Muerto,Tercera,"McMahon, Mr. Martin",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+127,128,Vivo,Tercera,"Madsen, Mr. Fridtjof Arne",Hombre,24.0,0,0,7.14,Southamptom,Solo,Adultos
+128,129,Vivo,Tercera,"Peter, Miss. Anna",Mujer,29.0,1,1,22.36,Cherbourg,Acompañado,Adultos
+129,130,Muerto,Tercera,"Ekstrom, Mr. Johan",Hombre,45.0,0,0,6.98,Southamptom,Solo,Adultos
+130,131,Muerto,Tercera,"Drazenoic, Mr. Jozef",Hombre,33.0,0,0,7.9,Cherbourg,Solo,Adultos
+131,132,Muerto,Tercera,"Coelho, Mr. Domingos Fernandeo",Hombre,20.0,0,0,7.05,Southamptom,Solo,Adultos
+132,133,Muerto,Tercera,"Robins, Mrs. Alexander A (Grace Charity Laury)",Mujer,47.0,1,0,14.5,Southamptom,Acompañado,Adultos
+133,134,Vivo,Segunda,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Mujer,29.0,1,0,26.0,Southamptom,Acompañado,Adultos
+134,135,Muerto,Segunda,"Sobey, Mr. Samuel James Hayden",Hombre,25.0,0,0,13.0,Southamptom,Solo,Adultos
+135,136,Muerto,Segunda,"Richard, Mr. Emile",Hombre,23.0,0,0,15.05,Cherbourg,Solo,Adultos
+136,137,Vivo,Primera,"Newsom, Miss. Helen Monypeny",Mujer,19.0,0,2,26.28,Southamptom,Acompañado,Adultos
+137,138,Muerto,Primera,"Futrelle, Mr. Jacques Heath",Hombre,37.0,1,0,53.1,Southamptom,Acompañado,Adultos
+138,139,Muerto,Tercera,"Osen, Mr. Olaf Elon",Hombre,16.0,0,0,9.22,Southamptom,Solo,Adultos
+139,140,Muerto,Primera,"Giglio, Mr. Victor",Hombre,24.0,0,0,79.2,Cherbourg,Solo,Adultos
+140,141,Muerto,Tercera,"Boulos, Mrs. Joseph (Sultana)",Mujer,29.0,0,2,15.25,Cherbourg,Acompañado,Adultos
+141,142,Vivo,Tercera,"Nysten, Miss. Anna Sofia",Mujer,22.0,0,0,7.75,Southamptom,Solo,Adultos
+142,143,Vivo,Tercera,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Mujer,24.0,1,0,15.85,Southamptom,Acompañado,Adultos
+143,144,Muerto,Tercera,"Burke, Mr. Jeremiah",Hombre,19.0,0,0,6.75,Queenstown,Solo,Adultos
+144,145,Muerto,Segunda,"Andrew, Mr. Edgardo Samuel",Hombre,18.0,0,0,11.5,Southamptom,Solo,Adultos
+145,146,Muerto,Segunda,"Nicholls, Mr. Joseph Charles",Hombre,19.0,1,1,36.75,Southamptom,Acompañado,Adultos
+146,147,Vivo,Tercera,"Andersson, Mr. August Edvard (""Wennerstrom"")",Hombre,27.0,0,0,7.8,Southamptom,Solo,Adultos
+147,148,Muerto,Tercera,"Ford, Miss. Robina Maggie ""Ruby""",Mujer,9.0,2,2,34.38,Southamptom,Acompañado,Menores
+148,149,Muerto,Segunda,"Navratil, Mr. Michel (""Louis M Hoffman"")",Hombre,36.0,0,2,26.0,Southamptom,Acompañado,Adultos
+149,150,Muerto,Segunda,"Byles, Rev. Thomas Roussel Davids",Hombre,42.0,0,0,13.0,Southamptom,Solo,Adultos
+150,151,Muerto,Segunda,"Bateman, Rev. Robert James",Hombre,51.0,0,0,12.52,Southamptom,Solo,Mayores
+151,152,Vivo,Primera,"Pears, Mrs. Thomas (Edith Wearne)",Mujer,22.0,1,0,66.6,Southamptom,Acompañado,Adultos
+152,153,Muerto,Tercera,"Meo, Mr. Alfonzo",Hombre,35.0,0,0,8.05,Southamptom,Solo,Adultos
+153,154,Muerto,Tercera,"van Billiard, Mr. Austin Blyler",Hombre,40.0,0,2,14.5,Southamptom,Acompañado,Adultos
+154,155,Muerto,Tercera,"Olsen, Mr. Ole Martin",Hombre,29.0,0,0,7.31,Southamptom,Solo,Adultos
+155,156,Muerto,Primera,"Williams, Mr. Charles Duane",Hombre,51.0,0,1,61.38,Cherbourg,Acompañado,Mayores
+156,157,Vivo,Tercera,"Gilnagh, Miss. Katherine ""Katie""",Mujer,16.0,0,0,7.73,Queenstown,Solo,Adultos
+157,158,Muerto,Tercera,"Corn, Mr. Harry",Hombre,30.0,0,0,8.05,Southamptom,Solo,Adultos
+158,159,Muerto,Tercera,"Smiljanic, Mr. Mile",Hombre,29.0,0,0,8.66,Southamptom,Solo,Adultos
+159,160,Muerto,Tercera,"Sage, Master. Thomas Henry",Hombre,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+160,161,Muerto,Tercera,"Cribb, Mr. John Hatfield",Hombre,44.0,0,1,16.1,Southamptom,Acompañado,Adultos
+161,162,Vivo,Segunda,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Mujer,40.0,0,0,15.75,Southamptom,Solo,Adultos
+162,163,Muerto,Tercera,"Bengtsson, Mr. John Viktor",Hombre,26.0,0,0,7.78,Southamptom,Solo,Adultos
+163,164,Muerto,Tercera,"Calic, Mr. Jovo",Hombre,17.0,0,0,8.66,Southamptom,Solo,Adultos
+164,165,Muerto,Tercera,"Panula, Master. Eino Viljami",Hombre,22.0,4,1,39.69,Southamptom,Acompañado,Adultos
+165,166,Vivo,Tercera,"Goldsmith, Master. Frank John William ""Frankie""",Hombre,9.0,0,2,20.52,Southamptom,Acompañado,Menores
+166,167,Vivo,Primera,"Chibnall, Mrs. (Edith Martha Bowerman)",Mujer,29.0,0,1,55.0,Southamptom,Acompañado,Adultos
+167,168,Muerto,Tercera,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Mujer,45.0,1,4,27.9,Southamptom,Acompañado,Adultos
+168,169,Muerto,Primera,"Baumann, Mr. John D",Hombre,29.0,0,0,25.92,Southamptom,Solo,Adultos
+169,170,Muerto,Tercera,"Ling, Mr. Lee",Hombre,28.0,0,0,56.5,Southamptom,Solo,Adultos
+170,171,Muerto,Primera,"Van der hoef, Mr. Wyckoff",Hombre,35.0,0,0,33.5,Southamptom,Solo,Adultos
+171,172,Muerto,Tercera,"Rice, Master. Arthur",Hombre,4.0,4,1,29.12,Queenstown,Acompañado,Menores
+172,173,Vivo,Tercera,"Johnson, Miss. Eleanor Ileen",Mujer,22.0,1,1,11.13,Southamptom,Acompañado,Adultos
+173,174,Muerto,Tercera,"Sivola, Mr. Antti Wilhelm",Hombre,21.0,0,0,7.92,Southamptom,Solo,Adultos
+174,175,Muerto,Primera,"Smith, Mr. James Clinch",Hombre,35.0,0,0,30.7,Cherbourg,Solo,Adultos
+175,176,Muerto,Tercera,"Klasen, Mr. Klas Albin",Hombre,18.0,1,1,7.85,Southamptom,Acompañado,Adultos
+176,177,Muerto,Tercera,"Lefebre, Master. Henry Forbes",Hombre,29.0,3,1,25.47,Southamptom,Acompañado,Adultos
+177,178,Muerto,Primera,"Isham, Miss. Ann Elizabeth",Mujer,50.0,0,0,28.71,Cherbourg,Solo,Adultos
+178,179,Muerto,Segunda,"Hale, Mr. Reginald",Hombre,30.0,0,0,13.0,Southamptom,Solo,Adultos
+179,180,Muerto,Tercera,"Leonard, Mr. Lionel",Hombre,36.0,0,0,0.0,Southamptom,Solo,Adultos
+180,181,Muerto,Tercera,"Sage, Miss. Constance Gladys",Mujer,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+181,182,Muerto,Segunda,"Pernot, Mr. Rene",Hombre,29.0,0,0,15.05,Cherbourg,Solo,Adultos
+182,183,Muerto,Tercera,"Asplund, Master. Clarence Gustaf Hugo",Hombre,9.0,4,2,31.39,Southamptom,Acompañado,Menores
+183,184,Vivo,Segunda,"Becker, Master. Richard F",Hombre,22.0,2,1,39.0,Southamptom,Acompañado,Adultos
+184,185,Vivo,Tercera,"Kink-Heilmann, Miss. Luise Gretchen",Mujer,4.0,0,2,22.02,Southamptom,Acompañado,Menores
+185,186,Muerto,Primera,"Rood, Mr. Hugh Roscoe",Hombre,29.0,0,0,50.0,Southamptom,Solo,Adultos
+186,187,Vivo,Tercera,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Mujer,29.0,1,0,15.5,Queenstown,Acompañado,Adultos
+187,188,Vivo,Primera,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Hombre,45.0,0,0,26.55,Southamptom,Solo,Adultos
+188,189,Muerto,Tercera,"Bourke, Mr. John",Hombre,40.0,1,1,15.5,Queenstown,Acompañado,Adultos
+189,190,Muerto,Tercera,"Turcin, Mr. Stjepan",Hombre,36.0,0,0,7.9,Southamptom,Solo,Adultos
+190,191,Vivo,Segunda,"Pinsky, Mrs. (Rosa)",Mujer,32.0,0,0,13.0,Southamptom,Solo,Adultos
+191,192,Muerto,Segunda,"Carbines, Mr. William",Hombre,19.0,0,0,13.0,Southamptom,Solo,Adultos
+192,193,Vivo,Tercera,"Andersen-Jensen, Miss. Carla Christine Nielsine",Mujer,19.0,1,0,7.85,Southamptom,Acompañado,Adultos
+193,194,Vivo,Segunda,"Navratil, Master. Michel M",Hombre,3.0,1,1,26.0,Southamptom,Acompañado,Menores
+194,195,Vivo,Primera,"Brown, Mrs. James Joseph (Margaret Tobin)",Mujer,44.0,0,0,27.72,Cherbourg,Solo,Adultos
+195,196,Vivo,Primera,"Lurette, Miss. Elise",Mujer,35.0,0,0,146.52,Cherbourg,Solo,Adultos
+196,197,Muerto,Tercera,"Mernagh, Mr. Robert",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+197,198,Muerto,Tercera,"Olsen, Mr. Karl Siegwart Andreas",Hombre,42.0,0,1,8.4,Southamptom,Acompañado,Adultos
+198,199,Vivo,Tercera,"Madigan, Miss. Margaret ""Maggie""",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+199,200,Muerto,Segunda,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Mujer,24.0,0,0,13.0,Southamptom,Solo,Adultos
+200,201,Muerto,Tercera,"Vande Walle, Mr. Nestor Cyriel",Hombre,28.0,0,0,9.5,Southamptom,Solo,Adultos
+201,202,Muerto,Tercera,"Sage, Mr. Frederick",Hombre,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+202,203,Muerto,Tercera,"Johanson, Mr. Jakob Alfred",Hombre,34.0,0,0,6.5,Southamptom,Solo,Adultos
+203,204,Muerto,Tercera,"Youseff, Mr. Gerious",Hombre,45.0,0,0,7.22,Cherbourg,Solo,Adultos
+204,205,Vivo,Tercera,"Cohen, Mr. Gurshon ""Gus""",Hombre,18.0,0,0,8.05,Southamptom,Solo,Adultos
+205,206,Muerto,Tercera,"Strom, Miss. Telma Matilda",Mujer,22.0,0,1,10.46,Southamptom,Acompañado,Adultos
+206,207,Muerto,Tercera,"Backstrom, Mr. Karl Alfred",Hombre,32.0,1,0,15.85,Southamptom,Acompañado,Adultos
+207,208,Vivo,Tercera,"Albimona, Mr. Nassef Cassem",Hombre,26.0,0,0,18.79,Cherbourg,Solo,Adultos
+208,209,Vivo,Tercera,"Carr, Miss. Helen ""Ellen""",Mujer,16.0,0,0,7.75,Queenstown,Solo,Adultos
+209,210,Vivo,Primera,"Blank, Mr. Henry",Hombre,40.0,0,0,31.0,Cherbourg,Solo,Adultos
+210,211,Muerto,Tercera,"Ali, Mr. Ahmed",Hombre,24.0,0,0,7.05,Southamptom,Solo,Adultos
+211,212,Vivo,Segunda,"Cameron, Miss. Clear Annie",Mujer,35.0,0,0,21.0,Southamptom,Solo,Adultos
+212,213,Muerto,Tercera,"Perkin, Mr. John Henry",Hombre,22.0,0,0,7.25,Southamptom,Solo,Adultos
+213,214,Muerto,Segunda,"Givard, Mr. Hans Kristensen",Hombre,30.0,0,0,13.0,Southamptom,Solo,Adultos
+214,215,Muerto,Tercera,"Kiernan, Mr. Philip",Hombre,29.0,1,0,7.75,Queenstown,Acompañado,Adultos
+215,216,Vivo,Primera,"Newell, Miss. Madeleine",Mujer,31.0,1,0,113.28,Cherbourg,Acompañado,Adultos
+216,217,Vivo,Tercera,"Honkanen, Miss. Eliina",Mujer,27.0,0,0,7.92,Southamptom,Solo,Adultos
+217,218,Muerto,Segunda,"Jacobsohn, Mr. Sidney Samuel",Hombre,42.0,1,0,27.0,Southamptom,Acompañado,Adultos
+218,219,Vivo,Primera,"Bazzani, Miss. Albina",Mujer,32.0,0,0,76.29,Cherbourg,Solo,Adultos
+219,220,Muerto,Segunda,"Harris, Mr. Walter",Hombre,30.0,0,0,10.5,Southamptom,Solo,Adultos
+220,221,Vivo,Tercera,"Sunderland, Mr. Victor Francis",Hombre,16.0,0,0,8.05,Southamptom,Solo,Adultos
+221,222,Muerto,Segunda,"Bracken, Mr. James H",Hombre,27.0,0,0,13.0,Southamptom,Solo,Adultos
+222,223,Muerto,Tercera,"Green, Mr. George Henry",Hombre,51.0,0,0,8.05,Southamptom,Solo,Mayores
+223,224,Muerto,Tercera,"Nenkoff, Mr. Christo",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+224,225,Vivo,Primera,"Hoyt, Mr. Frederick Maxfield",Hombre,38.0,1,0,90.0,Southamptom,Acompañado,Adultos
+225,226,Muerto,Tercera,"Berglund, Mr. Karl Ivar Sven",Hombre,22.0,0,0,9.35,Southamptom,Solo,Adultos
+226,227,Vivo,Segunda,"Mellors, Mr. William John",Hombre,19.0,0,0,10.5,Southamptom,Solo,Adultos
+227,228,Muerto,Tercera,"Lovell, Mr. John Hall (""Henry"")",Hombre,20.0,0,0,7.25,Southamptom,Solo,Adultos
+228,229,Muerto,Segunda,"Fahlstrom, Mr. Arne Jonas",Hombre,18.0,0,0,13.0,Southamptom,Solo,Adultos
+229,230,Muerto,Tercera,"Lefebre, Miss. Mathilde",Mujer,29.0,3,1,25.47,Southamptom,Acompañado,Adultos
+230,231,Vivo,Primera,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Mujer,35.0,1,0,83.48,Southamptom,Acompañado,Adultos
+231,232,Muerto,Tercera,"Larsson, Mr. Bengt Edvin",Hombre,29.0,0,0,7.78,Southamptom,Solo,Adultos
+232,233,Muerto,Segunda,"Sjostedt, Mr. Ernst Adolf",Hombre,35.0,0,0,13.5,Southamptom,Solo,Adultos
+233,234,Vivo,Tercera,"Asplund, Miss. Lillian Gertrud",Mujer,5.0,4,2,31.39,Southamptom,Acompañado,Menores
+234,235,Muerto,Segunda,"Leyson, Mr. Robert William Norman",Hombre,24.0,0,0,10.5,Southamptom,Solo,Adultos
+235,236,Muerto,Tercera,"Harknett, Miss. Alice Phoebe",Mujer,29.0,0,0,7.55,Southamptom,Solo,Adultos
+236,237,Muerto,Segunda,"Hold, Mr. Stephen",Hombre,44.0,1,0,26.0,Southamptom,Acompañado,Adultos
+237,238,Vivo,Segunda,"Collyer, Miss. Marjorie ""Lottie""",Mujer,8.0,0,2,26.25,Southamptom,Acompañado,Menores
+238,239,Muerto,Segunda,"Pengelly, Mr. Frederick William",Hombre,19.0,0,0,10.5,Southamptom,Solo,Adultos
+239,240,Muerto,Segunda,"Hunt, Mr. George Henry",Hombre,33.0,0,0,12.28,Southamptom,Solo,Adultos
+240,241,Muerto,Tercera,"Zabour, Miss. Thamine",Mujer,29.0,1,0,14.45,Cherbourg,Acompañado,Adultos
+241,242,Vivo,Tercera,"Murphy, Miss. Katherine ""Kate""",Mujer,29.0,1,0,15.5,Queenstown,Acompañado,Adultos
+242,243,Muerto,Segunda,"Coleridge, Mr. Reginald Charles",Hombre,29.0,0,0,10.5,Southamptom,Solo,Adultos
+243,244,Muerto,Tercera,"Maenpaa, Mr. Matti Alexanteri",Hombre,22.0,0,0,7.12,Southamptom,Solo,Adultos
+244,245,Muerto,Tercera,"Attalah, Mr. Sleiman",Hombre,30.0,0,0,7.22,Cherbourg,Solo,Adultos
+245,246,Muerto,Primera,"Minahan, Dr. William Edward",Hombre,44.0,2,0,90.0,Queenstown,Acompañado,Adultos
+246,247,Muerto,Tercera,"Lindahl, Miss. Agda Thorilda Viktoria",Mujer,25.0,0,0,7.78,Southamptom,Solo,Adultos
+247,248,Vivo,Segunda,"Hamalainen, Mrs. William (Anna)",Mujer,24.0,0,2,14.5,Southamptom,Acompañado,Adultos
+248,249,Vivo,Primera,"Beckwith, Mr. Richard Leonard",Hombre,37.0,1,1,52.55,Southamptom,Acompañado,Adultos
+249,250,Muerto,Segunda,"Carter, Rev. Ernest Courtenay",Hombre,54.0,1,0,26.0,Southamptom,Acompañado,Mayores
+250,251,Muerto,Tercera,"Reed, Mr. James George",Hombre,29.0,0,0,7.25,Southamptom,Solo,Adultos
+251,252,Muerto,Tercera,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Mujer,29.0,1,1,10.46,Southamptom,Acompañado,Adultos
+252,253,Muerto,Primera,"Stead, Mr. William Thomas",Hombre,35.0,0,0,26.55,Southamptom,Solo,Adultos
+253,254,Muerto,Tercera,"Lobb, Mr. William Arthur",Hombre,30.0,1,0,16.1,Southamptom,Acompañado,Adultos
+254,255,Muerto,Tercera,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Mujer,41.0,0,2,20.21,Southamptom,Acompañado,Adultos
+255,256,Vivo,Tercera,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Mujer,29.0,0,2,15.25,Cherbourg,Acompañado,Adultos
+256,257,Vivo,Primera,"Thorne, Mrs. Gertrude Maybelle",Mujer,29.0,0,0,79.2,Cherbourg,Solo,Adultos
+257,258,Vivo,Primera,"Cherry, Miss. Gladys",Mujer,30.0,0,0,86.5,Southamptom,Solo,Adultos
+258,259,Vivo,Primera,"Ward, Miss. Anna",Mujer,35.0,0,0,512.33,Cherbourg,Solo,Adultos
+259,260,Vivo,Segunda,"Parrish, Mrs. (Lutie Davis)",Mujer,50.0,0,1,26.0,Southamptom,Acompañado,Adultos
+260,261,Muerto,Tercera,"Smith, Mr. Thomas",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+261,262,Vivo,Tercera,"Asplund, Master. Edvin Rojj Felix",Hombre,3.0,4,2,31.39,Southamptom,Acompañado,Menores
+262,263,Muerto,Primera,"Taussig, Mr. Emil",Hombre,52.0,1,1,79.65,Southamptom,Acompañado,Mayores
+263,264,Muerto,Primera,"Harrison, Mr. William",Hombre,40.0,0,0,0.0,Southamptom,Solo,Adultos
+264,265,Muerto,Tercera,"Henry, Miss. Delia",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+265,266,Muerto,Segunda,"Reeves, Mr. David",Hombre,36.0,0,0,10.5,Southamptom,Solo,Adultos
+266,267,Muerto,Tercera,"Panula, Mr. Ernesti Arvid",Hombre,16.0,4,1,39.69,Southamptom,Acompañado,Adultos
+267,268,Vivo,Tercera,"Persson, Mr. Ernst Ulrik",Hombre,25.0,1,0,7.78,Southamptom,Acompañado,Adultos
+268,269,Vivo,Primera,"Graham, Mrs. William Thompson (Edith Junkins)",Mujer,35.0,0,1,153.46,Southamptom,Acompañado,Adultos
+269,270,Vivo,Primera,"Bissette, Miss. Amelia",Mujer,35.0,0,0,135.63,Southamptom,Solo,Adultos
+270,271,Muerto,Primera,"Cairns, Mr. Alexander",Hombre,29.0,0,0,31.0,Southamptom,Solo,Adultos
+271,272,Vivo,Tercera,"Tornquist, Mr. William Henry",Hombre,25.0,0,0,0.0,Southamptom,Solo,Adultos
+272,273,Vivo,Segunda,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Mujer,41.0,0,1,19.5,Southamptom,Acompañado,Adultos
+273,274,Muerto,Primera,"Natsch, Mr. Charles H",Hombre,37.0,0,1,29.7,Cherbourg,Acompañado,Adultos
+274,275,Vivo,Tercera,"Healy, Miss. Hanora ""Nora""",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+275,276,Vivo,Primera,"Andrews, Miss. Kornelia Theodosia",Mujer,35.0,1,0,77.96,Southamptom,Acompañado,Adultos
+276,277,Muerto,Tercera,"Lindblom, Miss. Augusta Charlotta",Mujer,45.0,0,0,7.75,Southamptom,Solo,Adultos
+277,278,Muerto,Segunda,"Parkes, Mr. Francis ""Frank""",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+278,279,Muerto,Tercera,"Rice, Master. Eric",Hombre,7.0,4,1,29.12,Queenstown,Acompañado,Menores
+279,280,Vivo,Tercera,"Abbott, Mrs. Stanton (Rosa Hunt)",Mujer,35.0,1,1,20.25,Southamptom,Acompañado,Adultos
+280,281,Muerto,Tercera,"Duane, Mr. Frank",Hombre,35.0,0,0,7.75,Queenstown,Solo,Adultos
+281,282,Muerto,Tercera,"Olsson, Mr. Nils Johan Goransson",Hombre,28.0,0,0,7.85,Southamptom,Solo,Adultos
+282,283,Muerto,Tercera,"de Pelsmaeker, Mr. Alfons",Hombre,16.0,0,0,9.5,Southamptom,Solo,Adultos
+283,284,Vivo,Tercera,"Dorking, Mr. Edward Arthur",Hombre,19.0,0,0,8.05,Southamptom,Solo,Adultos
+284,285,Muerto,Primera,"Smith, Mr. Richard William",Hombre,29.0,0,0,26.0,Southamptom,Solo,Adultos
+285,286,Muerto,Tercera,"Stankovic, Mr. Ivan",Hombre,33.0,0,0,8.66,Cherbourg,Solo,Adultos
+286,287,Vivo,Tercera,"de Mulder, Mr. Theodore",Hombre,30.0,0,0,9.5,Southamptom,Solo,Adultos
+287,288,Muerto,Tercera,"Naidenoff, Mr. Penko",Hombre,22.0,0,0,7.9,Southamptom,Solo,Adultos
+288,289,Vivo,Segunda,"Hosono, Mr. Masabumi",Hombre,42.0,0,0,13.0,Southamptom,Solo,Adultos
+289,290,Vivo,Tercera,"Connolly, Miss. Kate",Mujer,22.0,0,0,7.75,Queenstown,Solo,Adultos
+290,291,Vivo,Primera,"Barber, Miss. Ellen ""Nellie""",Mujer,26.0,0,0,78.85,Southamptom,Solo,Adultos
+291,292,Vivo,Primera,"Bishop, Mrs. Dickinson H (Helen Walton)",Mujer,19.0,1,0,91.08,Cherbourg,Acompañado,Adultos
+292,293,Muerto,Segunda,"Levy, Mr. Rene Jacques",Hombre,36.0,0,0,12.88,Cherbourg,Solo,Adultos
+293,294,Muerto,Tercera,"Haas, Miss. Aloisia",Mujer,24.0,0,0,8.85,Southamptom,Solo,Adultos
+294,295,Muerto,Tercera,"Mineff, Mr. Ivan",Hombre,24.0,0,0,7.9,Southamptom,Solo,Adultos
+295,296,Muerto,Primera,"Lewy, Mr. Ervin G",Hombre,29.0,0,0,27.72,Cherbourg,Solo,Adultos
+296,297,Muerto,Tercera,"Hanna, Mr. Mansour",Hombre,23.0,0,0,7.23,Cherbourg,Solo,Adultos
+297,298,Muerto,Primera,"Allison, Miss. Helen Loraine",Mujer,22.0,1,2,151.55,Southamptom,Acompañado,Adultos
+298,299,Vivo,Primera,"Saalfeld, Mr. Adolphe",Hombre,29.0,0,0,30.5,Southamptom,Solo,Adultos
+299,300,Vivo,Primera,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Mujer,50.0,0,1,247.52,Cherbourg,Acompañado,Adultos
+300,301,Vivo,Tercera,"Kelly, Miss. Anna Katherine ""Annie Kate""",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+301,302,Vivo,Tercera,"McCoy, Mr. Bernard",Hombre,29.0,2,0,23.25,Queenstown,Acompañado,Adultos
+302,303,Muerto,Tercera,"Johnson, Mr. William Cahoone Jr",Hombre,19.0,0,0,0.0,Southamptom,Solo,Adultos
+303,304,Vivo,Segunda,"Keane, Miss. Nora A",Mujer,29.0,0,0,12.35,Queenstown,Solo,Adultos
+304,305,Muerto,Tercera,"Williams, Mr. Howard Hugh ""Harry""",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+305,306,Vivo,Primera,"Allison, Master. Hudson Trevor",Hombre,22.0,1,2,151.55,Southamptom,Acompañado,Adultos
+306,307,Vivo,Primera,"Fleming, Miss. Margaret",Mujer,29.0,0,0,110.88,Cherbourg,Solo,Adultos
+307,308,Vivo,Primera,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Mujer,17.0,1,0,108.9,Cherbourg,Acompañado,Adultos
+308,309,Muerto,Segunda,"Abelson, Mr. Samuel",Hombre,30.0,1,0,24.0,Cherbourg,Acompañado,Adultos
+309,310,Vivo,Primera,"Francatelli, Miss. Laura Mabel",Mujer,30.0,0,0,56.93,Cherbourg,Solo,Adultos
+310,311,Vivo,Primera,"Hays, Miss. Margaret Bechstein",Mujer,24.0,0,0,83.16,Cherbourg,Solo,Adultos
+311,312,Vivo,Primera,"Ryerson, Miss. Emily Borie",Mujer,18.0,2,2,262.38,Cherbourg,Acompañado,Adultos
+312,313,Muerto,Segunda,"Lahtinen, Mrs. William (Anna Sylfven)",Mujer,26.0,1,1,26.0,Southamptom,Acompañado,Adultos
+313,314,Muerto,Tercera,"Hendekovic, Mr. Ignjac",Hombre,28.0,0,0,7.9,Southamptom,Solo,Adultos
+314,315,Muerto,Segunda,"Hart, Mr. Benjamin",Hombre,43.0,1,1,26.25,Southamptom,Acompañado,Adultos
+315,316,Vivo,Tercera,"Nilsson, Miss. Helmina Josefina",Mujer,26.0,0,0,7.85,Southamptom,Solo,Adultos
+316,317,Vivo,Segunda,"Kantor, Mrs. Sinai (Miriam Sternin)",Mujer,24.0,1,0,26.0,Southamptom,Acompañado,Adultos
+317,318,Muerto,Segunda,"Moraweck, Dr. Ernest",Hombre,54.0,0,0,14.0,Southamptom,Solo,Mayores
+318,319,Vivo,Primera,"Wick, Miss. Mary Natalie",Mujer,31.0,0,2,164.87,Southamptom,Acompañado,Adultos
+319,320,Vivo,Primera,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Mujer,40.0,1,1,134.5,Cherbourg,Acompañado,Adultos
+320,321,Muerto,Tercera,"Dennis, Mr. Samuel",Hombre,22.0,0,0,7.25,Southamptom,Solo,Adultos
+321,322,Muerto,Tercera,"Danoff, Mr. Yoto",Hombre,27.0,0,0,7.9,Southamptom,Solo,Adultos
+322,323,Vivo,Segunda,"Slayter, Miss. Hilda Mary",Mujer,30.0,0,0,12.35,Queenstown,Solo,Adultos
+323,324,Vivo,Segunda,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Mujer,22.0,1,1,29.0,Southamptom,Acompañado,Adultos
+324,325,Muerto,Tercera,"Sage, Mr. George John Jr",Hombre,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+325,326,Vivo,Primera,"Young, Miss. Marie Grice",Mujer,36.0,0,0,135.63,Cherbourg,Solo,Adultos
+326,327,Muerto,Tercera,"Nysveen, Mr. Johan Hansen",Hombre,35.0,0,0,6.24,Southamptom,Solo,Adultos
+327,328,Vivo,Segunda,"Ball, Mrs. (Ada E Hall)",Mujer,36.0,0,0,13.0,Southamptom,Solo,Adultos
+328,329,Vivo,Tercera,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Mujer,31.0,1,1,20.52,Southamptom,Acompañado,Adultos
+329,330,Vivo,Primera,"Hippach, Miss. Jean Gertrude",Mujer,16.0,0,1,57.98,Cherbourg,Acompañado,Adultos
+330,331,Vivo,Tercera,"McCoy, Miss. Agnes",Mujer,29.0,2,0,23.25,Queenstown,Acompañado,Adultos
+331,332,Muerto,Primera,"Partner, Mr. Austen",Hombre,45.0,0,0,28.5,Southamptom,Solo,Adultos
+332,333,Muerto,Primera,"Graham, Mr. George Edward",Hombre,38.0,0,1,153.46,Southamptom,Acompañado,Adultos
+333,334,Muerto,Tercera,"Vander Planke, Mr. Leo Edmondus",Hombre,16.0,2,0,18.0,Southamptom,Acompañado,Adultos
+334,335,Vivo,Primera,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Mujer,29.0,1,0,133.65,Southamptom,Acompañado,Adultos
+335,336,Muerto,Tercera,"Denkoff, Mr. Mitto",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+336,337,Muerto,Primera,"Pears, Mr. Thomas Clinton",Hombre,29.0,1,0,66.6,Southamptom,Acompañado,Adultos
+337,338,Vivo,Primera,"Burns, Miss. Elizabeth Margaret",Mujer,41.0,0,0,134.5,Cherbourg,Solo,Adultos
+338,339,Vivo,Tercera,"Dahl, Mr. Karl Edwart",Hombre,45.0,0,0,8.05,Southamptom,Solo,Adultos
+339,340,Muerto,Primera,"Blackwell, Mr. Stephen Weart",Hombre,45.0,0,0,35.5,Southamptom,Solo,Adultos
+340,341,Vivo,Segunda,"Navratil, Master. Edmond Roger",Hombre,22.0,1,1,26.0,Southamptom,Acompañado,Adultos
+341,342,Vivo,Primera,"Fortune, Miss. Alice Elizabeth",Mujer,24.0,3,2,263.0,Southamptom,Acompañado,Adultos
+342,343,Muerto,Segunda,"Collander, Mr. Erik Gustaf",Hombre,28.0,0,0,13.0,Southamptom,Solo,Adultos
+343,344,Muerto,Segunda,"Sedgwick, Mr. Charles Frederick Waddington",Hombre,25.0,0,0,13.0,Southamptom,Solo,Adultos
+344,345,Muerto,Segunda,"Fox, Mr. Stanley Hubert",Hombre,36.0,0,0,13.0,Southamptom,Solo,Adultos
+345,346,Vivo,Segunda,"Brown, Miss. Amelia ""Mildred""",Mujer,24.0,0,0,13.0,Southamptom,Solo,Adultos
+346,347,Vivo,Segunda,"Smith, Miss. Marion Elsie",Mujer,40.0,0,0,13.0,Southamptom,Solo,Adultos
+347,348,Vivo,Tercera,"Davison, Mrs. Thomas Henry (Mary E Finck)",Mujer,29.0,1,0,16.1,Southamptom,Acompañado,Adultos
+348,349,Vivo,Tercera,"Coutts, Master. William Loch ""William""",Hombre,3.0,1,1,15.9,Southamptom,Acompañado,Menores
+349,350,Muerto,Tercera,"Dimic, Mr. Jovan",Hombre,42.0,0,0,8.66,Southamptom,Solo,Adultos
+350,351,Muerto,Tercera,"Odahl, Mr. Nils Martin",Hombre,23.0,0,0,9.22,Southamptom,Solo,Adultos
+351,352,Muerto,Primera,"Williams-Lambert, Mr. Fletcher Fellows",Hombre,29.0,0,0,35.0,Southamptom,Solo,Adultos
+352,353,Muerto,Tercera,"Elias, Mr. Tannous",Hombre,15.0,1,1,7.23,Cherbourg,Acompañado,Menores
+353,354,Muerto,Tercera,"Arnold-Franchi, Mr. Josef",Hombre,25.0,1,0,17.8,Southamptom,Acompañado,Adultos
+354,355,Muerto,Tercera,"Yousif, Mr. Wazli",Hombre,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+355,356,Muerto,Tercera,"Vanden Steen, Mr. Leo Peter",Hombre,28.0,0,0,9.5,Southamptom,Solo,Adultos
+356,357,Vivo,Primera,"Bowerman, Miss. Elsie Edith",Mujer,22.0,0,1,55.0,Southamptom,Acompañado,Adultos
+357,358,Muerto,Segunda,"Funk, Miss. Annie Clemmer",Mujer,38.0,0,0,13.0,Southamptom,Solo,Adultos
+358,359,Vivo,Tercera,"McGovern, Miss. Mary",Mujer,29.0,0,0,7.88,Queenstown,Solo,Adultos
+359,360,Vivo,Tercera,"Mockler, Miss. Helen Mary ""Ellie""",Mujer,29.0,0,0,7.88,Queenstown,Solo,Adultos
+360,361,Muerto,Tercera,"Skoog, Mr. Wilhelm",Hombre,40.0,1,4,27.9,Southamptom,Acompañado,Adultos
+361,362,Muerto,Segunda,"del Carlo, Mr. Sebastiano",Hombre,29.0,1,0,27.72,Cherbourg,Acompañado,Adultos
+362,363,Muerto,Tercera,"Barbara, Mrs. (Catherine David)",Mujer,45.0,0,1,14.45,Cherbourg,Acompañado,Adultos
+363,364,Muerto,Tercera,"Asim, Mr. Adola",Hombre,35.0,0,0,7.05,Southamptom,Solo,Adultos
+364,365,Muerto,Tercera,"O'Brien, Mr. Thomas",Hombre,29.0,1,0,15.5,Queenstown,Acompañado,Adultos
+365,366,Muerto,Tercera,"Adahl, Mr. Mauritz Nils Martin",Hombre,30.0,0,0,7.25,Southamptom,Solo,Adultos
+366,367,Vivo,Primera,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Mujer,35.0,1,0,75.25,Cherbourg,Acompañado,Adultos
+367,368,Vivo,Tercera,"Moussa, Mrs. (Mantoura Boulos)",Mujer,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+368,369,Vivo,Tercera,"Jermyn, Miss. Annie",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+369,370,Vivo,Primera,"Aubart, Mme. Leontine Pauline",Mujer,24.0,0,0,69.3,Cherbourg,Solo,Adultos
+370,371,Vivo,Primera,"Harder, Mr. George Achilles",Hombre,25.0,1,0,55.44,Cherbourg,Acompañado,Adultos
+371,372,Muerto,Tercera,"Wiklund, Mr. Jakob Alfred",Hombre,18.0,1,0,6.5,Southamptom,Acompañado,Adultos
+372,373,Muerto,Tercera,"Beavan, Mr. William Thomas",Hombre,19.0,0,0,8.05,Southamptom,Solo,Adultos
+373,374,Muerto,Primera,"Ringhini, Mr. Sante",Hombre,22.0,0,0,135.63,Cherbourg,Solo,Adultos
+374,375,Muerto,Tercera,"Palsson, Miss. Stina Viola",Mujer,3.0,3,1,21.08,Southamptom,Acompañado,Menores
+375,376,Vivo,Primera,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Mujer,29.0,1,0,82.17,Cherbourg,Acompañado,Adultos
+376,377,Vivo,Tercera,"Landergren, Miss. Aurora Adelia",Mujer,22.0,0,0,7.25,Southamptom,Solo,Adultos
+377,378,Muerto,Primera,"Widener, Mr. Harry Elkins",Hombre,27.0,0,2,211.5,Cherbourg,Acompañado,Adultos
+378,379,Muerto,Tercera,"Betros, Mr. Tannous",Hombre,20.0,0,0,4.01,Cherbourg,Solo,Adultos
+379,380,Muerto,Tercera,"Gustafsson, Mr. Karl Gideon",Hombre,19.0,0,0,7.78,Southamptom,Solo,Adultos
+380,381,Vivo,Primera,"Bidois, Miss. Rosalie",Mujer,42.0,0,0,227.52,Cherbourg,Solo,Adultos
+381,382,Vivo,Tercera,"Nakid, Miss. Maria (""Mary"")",Mujer,22.0,0,2,15.74,Cherbourg,Acompañado,Adultos
+382,383,Muerto,Tercera,"Tikkanen, Mr. Juho",Hombre,32.0,0,0,7.92,Southamptom,Solo,Adultos
+383,384,Vivo,Primera,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Mujer,35.0,1,0,52.0,Southamptom,Acompañado,Adultos
+384,385,Muerto,Tercera,"Plotcharsky, Mr. Vasil",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+385,386,Muerto,Segunda,"Davies, Mr. Charles Henry",Hombre,18.0,0,0,73.5,Southamptom,Solo,Adultos
+386,387,Muerto,Tercera,"Goodwin, Master. Sidney Leonard",Hombre,22.0,5,2,46.9,Southamptom,Acompañado,Adultos
+387,388,Vivo,Segunda,"Buss, Miss. Kate",Mujer,36.0,0,0,13.0,Southamptom,Solo,Adultos
+388,389,Muerto,Tercera,"Sadlier, Mr. Matthew",Hombre,29.0,0,0,7.73,Queenstown,Solo,Adultos
+389,390,Vivo,Segunda,"Lehmann, Miss. Bertha",Mujer,17.0,0,0,12.0,Cherbourg,Solo,Adultos
+390,391,Vivo,Primera,"Carter, Mr. William Ernest",Hombre,36.0,1,2,120.0,Southamptom,Acompañado,Adultos
+391,392,Vivo,Tercera,"Jansson, Mr. Carl Olof",Hombre,21.0,0,0,7.8,Southamptom,Solo,Adultos
+392,393,Muerto,Tercera,"Gustafsson, Mr. Johan Birger",Hombre,28.0,2,0,7.92,Southamptom,Acompañado,Adultos
+393,394,Vivo,Primera,"Newell, Miss. Marjorie",Mujer,23.0,1,0,113.28,Cherbourg,Acompañado,Adultos
+394,395,Vivo,Tercera,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Mujer,24.0,0,2,16.7,Southamptom,Acompañado,Adultos
+395,396,Muerto,Tercera,"Johansson, Mr. Erik",Hombre,22.0,0,0,7.8,Southamptom,Solo,Adultos
+396,397,Muerto,Tercera,"Olsson, Miss. Elina",Mujer,31.0,0,0,7.85,Southamptom,Solo,Adultos
+397,398,Muerto,Segunda,"McKane, Mr. Peter David",Hombre,46.0,0,0,26.0,Southamptom,Solo,Adultos
+398,399,Muerto,Segunda,"Pain, Dr. Alfred",Hombre,23.0,0,0,10.5,Southamptom,Solo,Adultos
+399,400,Vivo,Segunda,"Trout, Mrs. William H (Jessie L)",Mujer,28.0,0,0,12.65,Southamptom,Solo,Adultos
+400,401,Vivo,Tercera,"Niskanen, Mr. Juha",Hombre,39.0,0,0,7.92,Southamptom,Solo,Adultos
+401,402,Muerto,Tercera,"Adams, Mr. John",Hombre,26.0,0,0,8.05,Southamptom,Solo,Adultos
+402,403,Muerto,Tercera,"Jussila, Miss. Mari Aina",Mujer,21.0,1,0,9.82,Southamptom,Acompañado,Adultos
+403,404,Muerto,Tercera,"Hakkarainen, Mr. Pekka Pietari",Hombre,28.0,1,0,15.85,Southamptom,Acompañado,Adultos
+404,405,Muerto,Tercera,"Oreskovic, Miss. Marija",Mujer,20.0,0,0,8.66,Southamptom,Solo,Adultos
+405,406,Muerto,Segunda,"Gale, Mr. Shadrach",Hombre,34.0,1,0,21.0,Southamptom,Acompañado,Adultos
+406,407,Muerto,Tercera,"Widegren, Mr. Carl/Charles Peter",Hombre,51.0,0,0,7.75,Southamptom,Solo,Mayores
+407,408,Vivo,Segunda,"Richards, Master. William Rowe",Hombre,3.0,1,1,18.75,Southamptom,Acompañado,Menores
+408,409,Muerto,Tercera,"Birkeland, Mr. Hans Martin Monsen",Hombre,21.0,0,0,7.78,Southamptom,Solo,Adultos
+409,410,Muerto,Tercera,"Lefebre, Miss. Ida",Mujer,29.0,3,1,25.47,Southamptom,Acompañado,Adultos
+410,411,Muerto,Tercera,"Sdycoff, Mr. Todor",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+411,412,Muerto,Tercera,"Hart, Mr. Henry",Hombre,29.0,0,0,6.86,Queenstown,Solo,Adultos
+412,413,Vivo,Primera,"Minahan, Miss. Daisy E",Mujer,33.0,1,0,90.0,Queenstown,Acompañado,Adultos
+413,414,Muerto,Segunda,"Cunningham, Mr. Alfred Fleming",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+414,415,Vivo,Tercera,"Sundman, Mr. Johan Julian",Hombre,44.0,0,0,7.92,Southamptom,Solo,Adultos
+415,416,Muerto,Tercera,"Meek, Mrs. Thomas (Annie Louise Rowley)",Mujer,29.0,0,0,8.05,Southamptom,Solo,Adultos
+416,417,Vivo,Segunda,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Mujer,34.0,1,1,32.5,Southamptom,Acompañado,Adultos
+417,418,Vivo,Segunda,"Silven, Miss. Lyyli Karoliina",Mujer,18.0,0,2,13.0,Southamptom,Acompañado,Adultos
+418,419,Muerto,Segunda,"Matthews, Mr. William John",Hombre,30.0,0,0,13.0,Southamptom,Solo,Adultos
+419,420,Muerto,Tercera,"Van Impe, Miss. Catharina",Mujer,10.0,0,2,24.15,Southamptom,Acompañado,Menores
+420,421,Muerto,Tercera,"Gheorgheff, Mr. Stanio",Hombre,29.0,0,0,7.9,Cherbourg,Solo,Adultos
+421,422,Muerto,Tercera,"Charters, Mr. David",Hombre,21.0,0,0,7.73,Queenstown,Solo,Adultos
+422,423,Muerto,Tercera,"Zimmerman, Mr. Leo",Hombre,29.0,0,0,7.88,Southamptom,Solo,Adultos
+423,424,Muerto,Tercera,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Mujer,28.0,1,1,14.4,Southamptom,Acompañado,Adultos
+424,425,Muerto,Tercera,"Rosblom, Mr. Viktor Richard",Hombre,18.0,1,1,20.21,Southamptom,Acompañado,Adultos
+425,426,Muerto,Tercera,"Wiseman, Mr. Phillippe",Hombre,29.0,0,0,7.25,Southamptom,Solo,Adultos
+426,427,Vivo,Segunda,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Mujer,28.0,1,0,26.0,Southamptom,Acompañado,Adultos
+427,428,Vivo,Segunda,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Mujer,19.0,0,0,26.0,Southamptom,Solo,Adultos
+428,429,Muerto,Tercera,"Flynn, Mr. James",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+429,430,Vivo,Tercera,"Pickard, Mr. Berk (Berk Trembisky)",Hombre,32.0,0,0,8.05,Southamptom,Solo,Adultos
+430,431,Vivo,Primera,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Hombre,28.0,0,0,26.55,Southamptom,Solo,Adultos
+431,432,Vivo,Tercera,"Thorneycroft, Mrs. Percival (Florence Kate White)",Mujer,29.0,1,0,16.1,Southamptom,Acompañado,Adultos
+432,433,Vivo,Segunda,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Mujer,42.0,1,0,26.0,Southamptom,Acompañado,Adultos
+433,434,Muerto,Tercera,"Kallio, Mr. Nikolai Erland",Hombre,17.0,0,0,7.12,Southamptom,Solo,Adultos
+434,435,Muerto,Primera,"Silvey, Mr. William Baird",Hombre,50.0,1,0,55.9,Southamptom,Acompañado,Adultos
+435,436,Vivo,Primera,"Carter, Miss. Lucile Polk",Mujer,14.0,1,2,120.0,Southamptom,Acompañado,Menores
+436,437,Muerto,Tercera,"Ford, Miss. Doolina Margaret ""Daisy""",Mujer,21.0,2,2,34.38,Southamptom,Acompañado,Adultos
+437,438,Vivo,Segunda,"Richards, Mrs. Sidney (Emily Hocking)",Mujer,24.0,2,3,18.75,Southamptom,Acompañado,Adultos
+438,439,Muerto,Primera,"Fortune, Mr. Mark",Hombre,35.0,1,4,263.0,Southamptom,Acompañado,Adultos
+439,440,Muerto,Segunda,"Kvillner, Mr. Johan Henrik Johannesson",Hombre,31.0,0,0,10.5,Southamptom,Solo,Adultos
+440,441,Vivo,Segunda,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Mujer,45.0,1,1,26.25,Southamptom,Acompañado,Adultos
+441,442,Muerto,Tercera,"Hampe, Mr. Leon",Hombre,20.0,0,0,9.5,Southamptom,Solo,Adultos
+442,443,Muerto,Tercera,"Petterson, Mr. Johan Emil",Hombre,25.0,1,0,7.78,Southamptom,Acompañado,Adultos
+443,444,Vivo,Segunda,"Reynaldo, Ms. Encarnacion",Mujer,28.0,0,0,13.0,Southamptom,Solo,Adultos
+444,445,Vivo,Tercera,"Johannesen-Bratthammer, Mr. Bernt",Hombre,29.0,0,0,8.11,Southamptom,Solo,Adultos
+445,446,Vivo,Primera,"Dodge, Master. Washington",Hombre,4.0,0,2,81.86,Southamptom,Acompañado,Menores
+446,447,Vivo,Segunda,"Mellinger, Miss. Madeleine Violet",Mujer,13.0,0,1,19.5,Southamptom,Acompañado,Menores
+447,448,Vivo,Primera,"Seward, Mr. Frederic Kimber",Hombre,34.0,0,0,26.55,Southamptom,Solo,Adultos
+448,449,Vivo,Tercera,"Baclini, Miss. Marie Catherine",Mujer,5.0,2,1,19.26,Cherbourg,Acompañado,Menores
+449,450,Vivo,Primera,"Peuchen, Major. Arthur Godfrey",Hombre,52.0,0,0,30.5,Southamptom,Solo,Mayores
+450,451,Muerto,Segunda,"West, Mr. Edwy Arthur",Hombre,36.0,1,2,27.75,Southamptom,Acompañado,Adultos
+451,452,Muerto,Tercera,"Hagland, Mr. Ingvald Olai Olsen",Hombre,29.0,1,0,19.97,Southamptom,Acompañado,Adultos
+452,453,Muerto,Primera,"Foreman, Mr. Benjamin Laventall",Hombre,30.0,0,0,27.75,Cherbourg,Solo,Adultos
+453,454,Vivo,Primera,"Goldenberg, Mr. Samuel L",Hombre,49.0,1,0,89.1,Cherbourg,Acompañado,Adultos
+454,455,Muerto,Tercera,"Peduzzi, Mr. Joseph",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+455,456,Vivo,Tercera,"Jalsevac, Mr. Ivan",Hombre,29.0,0,0,7.9,Cherbourg,Solo,Adultos
+456,457,Muerto,Primera,"Millet, Mr. Francis Davis",Hombre,35.0,0,0,26.55,Southamptom,Solo,Adultos
+457,458,Vivo,Primera,"Kenyon, Mrs. Frederick R (Marion)",Mujer,29.0,1,0,51.86,Southamptom,Acompañado,Adultos
+458,459,Vivo,Segunda,"Toomey, Miss. Ellen",Mujer,50.0,0,0,10.5,Southamptom,Solo,Adultos
+459,460,Muerto,Tercera,"O'Connor, Mr. Maurice",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+460,461,Vivo,Primera,"Anderson, Mr. Harry",Hombre,48.0,0,0,26.55,Southamptom,Solo,Adultos
+461,462,Muerto,Tercera,"Morley, Mr. William",Hombre,34.0,0,0,8.05,Southamptom,Solo,Adultos
+462,463,Muerto,Primera,"Gee, Mr. Arthur H",Hombre,47.0,0,0,38.5,Southamptom,Solo,Adultos
+463,464,Muerto,Segunda,"Milling, Mr. Jacob Christian",Hombre,48.0,0,0,13.0,Southamptom,Solo,Adultos
+464,465,Muerto,Tercera,"Maisner, Mr. Simon",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+465,466,Muerto,Tercera,"Goncalves, Mr. Manuel Estanslas",Hombre,38.0,0,0,7.05,Southamptom,Solo,Adultos
+466,467,Muerto,Segunda,"Campbell, Mr. William",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+467,468,Muerto,Primera,"Smart, Mr. John Montgomery",Hombre,35.0,0,0,26.55,Southamptom,Solo,Adultos
+468,469,Muerto,Tercera,"Scanlan, Mr. James",Hombre,29.0,0,0,7.72,Queenstown,Solo,Adultos
+469,470,Vivo,Tercera,"Baclini, Miss. Helene Barbara",Mujer,22.0,2,1,19.26,Cherbourg,Acompañado,Adultos
+470,471,Muerto,Tercera,"Keefe, Mr. Arthur",Hombre,29.0,0,0,7.25,Southamptom,Solo,Adultos
+471,472,Muerto,Tercera,"Cacic, Mr. Luka",Hombre,38.0,0,0,8.66,Southamptom,Solo,Adultos
+472,473,Vivo,Segunda,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Mujer,33.0,1,2,27.75,Southamptom,Acompañado,Adultos
+473,474,Vivo,Segunda,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Mujer,23.0,0,0,13.79,Cherbourg,Solo,Adultos
+474,475,Muerto,Tercera,"Strandberg, Miss. Ida Sofia",Mujer,22.0,0,0,9.84,Southamptom,Solo,Adultos
+475,476,Muerto,Primera,"Clifford, Mr. George Quincy",Hombre,29.0,0,0,52.0,Southamptom,Solo,Adultos
+476,477,Muerto,Segunda,"Renouf, Mr. Peter Henry",Hombre,34.0,1,0,21.0,Southamptom,Acompañado,Adultos
+477,478,Muerto,Tercera,"Braund, Mr. Lewis Richard",Hombre,29.0,1,0,7.05,Southamptom,Acompañado,Adultos
+478,479,Muerto,Tercera,"Karlsson, Mr. Nils August",Hombre,22.0,0,0,7.52,Southamptom,Solo,Adultos
+479,480,Vivo,Tercera,"Hirvonen, Miss. Hildur E",Mujer,22.0,0,1,12.29,Southamptom,Acompañado,Adultos
+480,481,Muerto,Tercera,"Goodwin, Master. Harold Victor",Hombre,9.0,5,2,46.9,Southamptom,Acompañado,Menores
+481,482,Muerto,Segunda,"Frost, Mr. Anthony Wood ""Archie""",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+482,483,Muerto,Tercera,"Rouse, Mr. Richard Henry",Hombre,50.0,0,0,8.05,Southamptom,Solo,Adultos
+483,484,Vivo,Tercera,"Turkula, Mrs. (Hedwig)",Mujer,35.0,0,0,9.59,Southamptom,Solo,Adultos
+484,485,Vivo,Primera,"Bishop, Mr. Dickinson H",Hombre,25.0,1,0,91.08,Cherbourg,Acompañado,Adultos
+485,486,Muerto,Tercera,"Lefebre, Miss. Jeannie",Mujer,29.0,3,1,25.47,Southamptom,Acompañado,Adultos
+486,487,Vivo,Primera,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Mujer,35.0,1,0,90.0,Southamptom,Acompañado,Adultos
+487,488,Muerto,Primera,"Kent, Mr. Edward Austin",Hombre,35.0,0,0,29.7,Cherbourg,Solo,Adultos
+488,489,Muerto,Tercera,"Somerton, Mr. Francis William",Hombre,30.0,0,0,8.05,Southamptom,Solo,Adultos
+489,490,Vivo,Tercera,"Coutts, Master. Eden Leslie ""Neville""",Hombre,9.0,1,1,15.9,Southamptom,Acompañado,Menores
+490,491,Muerto,Tercera,"Hagland, Mr. Konrad Mathias Reiersen",Hombre,29.0,1,0,19.97,Southamptom,Acompañado,Adultos
+491,492,Muerto,Tercera,"Windelov, Mr. Einar",Hombre,21.0,0,0,7.25,Southamptom,Solo,Adultos
+492,493,Muerto,Primera,"Molson, Mr. Harry Markland",Hombre,35.0,0,0,30.5,Southamptom,Solo,Adultos
+493,494,Muerto,Primera,"Artagaveytia, Mr. Ramon",Hombre,35.0,0,0,49.5,Cherbourg,Solo,Adultos
+494,495,Muerto,Tercera,"Stanley, Mr. Edward Roland",Hombre,21.0,0,0,8.05,Southamptom,Solo,Adultos
+495,496,Muerto,Tercera,"Yousseff, Mr. Gerious",Hombre,29.0,0,0,14.46,Cherbourg,Solo,Adultos
+496,497,Vivo,Primera,"Eustis, Miss. Elizabeth Mussey",Mujer,54.0,1,0,78.27,Cherbourg,Acompañado,Mayores
+497,498,Muerto,Tercera,"Shellard, Mr. Frederick William",Hombre,29.0,0,0,15.1,Southamptom,Solo,Adultos
+498,499,Muerto,Primera,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Mujer,25.0,1,2,151.55,Southamptom,Acompañado,Adultos
+499,500,Muerto,Tercera,"Svensson, Mr. Olof",Hombre,24.0,0,0,7.8,Southamptom,Solo,Adultos
+500,501,Muerto,Tercera,"Calic, Mr. Petar",Hombre,17.0,0,0,8.66,Southamptom,Solo,Adultos
+501,502,Muerto,Tercera,"Canavan, Miss. Mary",Mujer,21.0,0,0,7.75,Queenstown,Solo,Adultos
+502,503,Muerto,Tercera,"O'Sullivan, Miss. Bridget Mary",Mujer,29.0,0,0,7.63,Queenstown,Solo,Adultos
+503,504,Muerto,Tercera,"Laitinen, Miss. Kristina Sofia",Mujer,37.0,0,0,9.59,Southamptom,Solo,Adultos
+504,505,Vivo,Primera,"Maioni, Miss. Roberta",Mujer,16.0,0,0,86.5,Southamptom,Solo,Adultos
+505,506,Muerto,Primera,"Penasco y Castellana, Mr. Victor de Satode",Hombre,18.0,1,0,108.9,Cherbourg,Acompañado,Adultos
+506,507,Vivo,Segunda,"Quick, Mrs. Frederick Charles (Jane Richards)",Mujer,33.0,0,2,26.0,Southamptom,Acompañado,Adultos
+507,508,Vivo,Primera,"Bradley, Mr. George (""George Arthur Brayton"")",Hombre,29.0,0,0,26.55,Southamptom,Solo,Adultos
+508,509,Muerto,Tercera,"Olsen, Mr. Henry Margido",Hombre,28.0,0,0,22.52,Southamptom,Solo,Adultos
+509,510,Vivo,Tercera,"Lang, Mr. Fang",Hombre,26.0,0,0,56.5,Southamptom,Solo,Adultos
+510,511,Vivo,Tercera,"Daly, Mr. Eugene Patrick",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+511,512,Muerto,Tercera,"Webber, Mr. James",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+512,513,Vivo,Primera,"McGough, Mr. James Robert",Hombre,36.0,0,0,26.29,Southamptom,Solo,Adultos
+513,514,Vivo,Primera,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Mujer,54.0,1,0,59.4,Cherbourg,Acompañado,Mayores
+514,515,Muerto,Tercera,"Coleff, Mr. Satio",Hombre,24.0,0,0,7.5,Southamptom,Solo,Adultos
+515,516,Muerto,Primera,"Walker, Mr. William Anderson",Hombre,47.0,0,0,34.02,Southamptom,Solo,Adultos
+516,517,Vivo,Segunda,"Lemore, Mrs. (Amelia Milley)",Mujer,34.0,0,0,10.5,Southamptom,Solo,Adultos
+517,518,Muerto,Tercera,"Ryan, Mr. Patrick",Hombre,29.0,0,0,24.15,Queenstown,Solo,Adultos
+518,519,Vivo,Segunda,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Mujer,36.0,1,0,26.0,Southamptom,Acompañado,Adultos
+519,520,Muerto,Tercera,"Pavlovic, Mr. Stefo",Hombre,32.0,0,0,7.9,Southamptom,Solo,Adultos
+520,521,Vivo,Primera,"Perreault, Miss. Anne",Mujer,30.0,0,0,93.5,Southamptom,Solo,Adultos
+521,522,Muerto,Tercera,"Vovk, Mr. Janko",Hombre,22.0,0,0,7.9,Southamptom,Solo,Adultos
+522,523,Muerto,Tercera,"Lahoud, Mr. Sarkis",Hombre,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+523,524,Vivo,Primera,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Mujer,44.0,0,1,57.98,Cherbourg,Acompañado,Adultos
+524,525,Muerto,Tercera,"Kassem, Mr. Fared",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+525,526,Muerto,Tercera,"Farrell, Mr. James",Hombre,40.0,0,0,7.75,Queenstown,Solo,Adultos
+526,527,Vivo,Segunda,"Ridsdale, Miss. Lucy",Mujer,50.0,0,0,10.5,Southamptom,Solo,Adultos
+527,528,Muerto,Primera,"Farthing, Mr. John",Hombre,29.0,0,0,221.78,Southamptom,Solo,Adultos
+528,529,Muerto,Tercera,"Salonen, Mr. Johan Werner",Hombre,39.0,0,0,7.92,Southamptom,Solo,Adultos
+529,530,Muerto,Segunda,"Hocking, Mr. Richard George",Hombre,23.0,2,1,11.5,Southamptom,Acompañado,Adultos
+530,531,Vivo,Segunda,"Quick, Miss. Phyllis May",Mujer,22.0,1,1,26.0,Southamptom,Acompañado,Adultos
+531,532,Muerto,Tercera,"Toufik, Mr. Nakli",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+532,533,Muerto,Tercera,"Elias, Mr. Joseph Jr",Hombre,17.0,1,1,7.23,Cherbourg,Acompañado,Adultos
+533,534,Vivo,Tercera,"Peter, Mrs. Catherine (Catherine Rizk)",Mujer,29.0,0,2,22.36,Cherbourg,Acompañado,Adultos
+534,535,Muerto,Tercera,"Cacic, Miss. Marija",Mujer,30.0,0,0,8.66,Southamptom,Solo,Adultos
+535,536,Vivo,Segunda,"Hart, Miss. Eva Miriam",Mujer,7.0,0,2,26.25,Southamptom,Acompañado,Menores
+536,537,Muerto,Primera,"Butt, Major. Archibald Willingham",Hombre,45.0,0,0,26.55,Southamptom,Solo,Adultos
+537,538,Vivo,Primera,"LeRoy, Miss. Bertha",Mujer,30.0,0,0,106.42,Cherbourg,Solo,Adultos
+538,539,Muerto,Tercera,"Risien, Mr. Samuel Beard",Hombre,29.0,0,0,14.5,Southamptom,Solo,Adultos
+539,540,Vivo,Primera,"Frolicher, Miss. Hedwig Margaritha",Mujer,22.0,0,2,49.5,Cherbourg,Acompañado,Adultos
+540,541,Vivo,Primera,"Crosby, Miss. Harriet R",Mujer,36.0,0,2,71.0,Southamptom,Acompañado,Adultos
+541,542,Muerto,Tercera,"Andersson, Miss. Ingeborg Constanzia",Mujer,9.0,4,2,31.28,Southamptom,Acompañado,Menores
+542,543,Muerto,Tercera,"Andersson, Miss. Sigrid Elisabeth",Mujer,11.0,4,2,31.28,Southamptom,Acompañado,Menores
+543,544,Vivo,Segunda,"Beane, Mr. Edward",Hombre,32.0,1,0,26.0,Southamptom,Acompañado,Adultos
+544,545,Muerto,Primera,"Douglas, Mr. Walter Donald",Hombre,50.0,1,0,106.42,Cherbourg,Acompañado,Adultos
+545,546,Muerto,Primera,"Nicholson, Mr. Arthur Ernest",Hombre,35.0,0,0,26.0,Southamptom,Solo,Adultos
+546,547,Vivo,Segunda,"Beane, Mrs. Edward (Ethel Clarke)",Mujer,19.0,1,0,26.0,Southamptom,Acompañado,Adultos
+547,548,Vivo,Segunda,"Padro y Manent, Mr. Julian",Hombre,29.0,0,0,13.86,Cherbourg,Solo,Adultos
+548,549,Muerto,Tercera,"Goldsmith, Mr. Frank John",Hombre,33.0,1,1,20.52,Southamptom,Acompañado,Adultos
+549,550,Vivo,Segunda,"Davies, Master. John Morgan Jr",Hombre,8.0,1,1,36.75,Southamptom,Acompañado,Menores
+550,551,Vivo,Primera,"Thayer, Mr. John Borland Jr",Hombre,17.0,0,2,110.88,Cherbourg,Acompañado,Adultos
+551,552,Muerto,Segunda,"Sharp, Mr. Percival James R",Hombre,27.0,0,0,26.0,Southamptom,Solo,Adultos
+552,553,Muerto,Tercera,"O'Brien, Mr. Timothy",Hombre,29.0,0,0,7.83,Queenstown,Solo,Adultos
+553,554,Vivo,Tercera,"Leeni, Mr. Fahim (""Philip Zenni"")",Hombre,22.0,0,0,7.22,Cherbourg,Solo,Adultos
+554,555,Vivo,Tercera,"Ohman, Miss. Velin",Mujer,22.0,0,0,7.78,Southamptom,Solo,Adultos
+555,556,Muerto,Primera,"Wright, Mr. George",Hombre,35.0,0,0,26.55,Southamptom,Solo,Adultos
+556,557,Vivo,Primera,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Mujer,48.0,1,0,39.6,Cherbourg,Acompañado,Adultos
+557,558,Muerto,Primera,"Robbins, Mr. Victor",Hombre,29.0,0,0,227.52,Cherbourg,Solo,Adultos
+558,559,Vivo,Primera,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Mujer,39.0,1,1,79.65,Southamptom,Acompañado,Adultos
+559,560,Vivo,Tercera,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Mujer,36.0,1,0,17.4,Southamptom,Acompañado,Adultos
+560,561,Muerto,Tercera,"Morrow, Mr. Thomas Rowan",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+561,562,Muerto,Tercera,"Sivic, Mr. Husein",Hombre,40.0,0,0,7.9,Southamptom,Solo,Adultos
+562,563,Muerto,Segunda,"Norman, Mr. Robert Douglas",Hombre,28.0,0,0,13.5,Southamptom,Solo,Adultos
+563,564,Muerto,Tercera,"Simmons, Mr. John",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+564,565,Muerto,Tercera,"Meanwell, Miss. (Marion Ogden)",Mujer,29.0,0,0,8.05,Southamptom,Solo,Adultos
+565,566,Muerto,Tercera,"Davies, Mr. Alfred J",Hombre,24.0,2,0,24.15,Southamptom,Acompañado,Adultos
+566,567,Muerto,Tercera,"Stoytcheff, Mr. Ilia",Hombre,19.0,0,0,7.9,Southamptom,Solo,Adultos
+567,568,Muerto,Tercera,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Mujer,29.0,0,4,21.08,Southamptom,Acompañado,Adultos
+568,569,Muerto,Tercera,"Doharr, Mr. Tannous",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+569,570,Vivo,Tercera,"Jonsson, Mr. Carl",Hombre,32.0,0,0,7.85,Southamptom,Solo,Adultos
+570,571,Vivo,Segunda,"Harris, Mr. George",Hombre,35.0,0,0,10.5,Southamptom,Solo,Adultos
+571,572,Vivo,Primera,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Mujer,53.0,2,0,51.48,Southamptom,Acompañado,Mayores
+572,573,Vivo,Primera,"Flynn, Mr. John Irwin (""Irving"")",Hombre,36.0,0,0,26.39,Southamptom,Solo,Adultos
+573,574,Vivo,Tercera,"Kelly, Miss. Mary",Mujer,29.0,0,0,7.75,Queenstown,Solo,Adultos
+574,575,Muerto,Tercera,"Rush, Mr. Alfred George John",Hombre,16.0,0,0,8.05,Southamptom,Solo,Adultos
+575,576,Muerto,Tercera,"Patchett, Mr. George",Hombre,19.0,0,0,14.5,Southamptom,Solo,Adultos
+576,577,Vivo,Segunda,"Garside, Miss. Ethel",Mujer,34.0,0,0,13.0,Southamptom,Solo,Adultos
+577,578,Vivo,Primera,"Silvey, Mrs. William Baird (Alice Munger)",Mujer,39.0,1,0,55.9,Southamptom,Acompañado,Adultos
+578,579,Muerto,Tercera,"Caram, Mrs. Joseph (Maria Elias)",Mujer,29.0,1,0,14.46,Cherbourg,Acompañado,Adultos
+579,580,Vivo,Tercera,"Jussila, Mr. Eiriik",Hombre,32.0,0,0,7.92,Southamptom,Solo,Adultos
+580,581,Vivo,Segunda,"Christy, Miss. Julie Rachel",Mujer,25.0,1,1,30.0,Southamptom,Acompañado,Adultos
+581,582,Vivo,Primera,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Mujer,39.0,1,1,110.88,Cherbourg,Acompañado,Adultos
+582,583,Muerto,Segunda,"Downton, Mr. William James",Hombre,54.0,0,0,26.0,Southamptom,Solo,Mayores
+583,584,Muerto,Primera,"Ross, Mr. John Hugo",Hombre,36.0,0,0,40.12,Cherbourg,Solo,Adultos
+584,585,Muerto,Tercera,"Paulner, Mr. Uscher",Hombre,29.0,0,0,8.71,Cherbourg,Solo,Adultos
+585,586,Vivo,Primera,"Taussig, Miss. Ruth",Mujer,18.0,0,2,79.65,Southamptom,Acompañado,Adultos
+586,587,Muerto,Segunda,"Jarvis, Mr. John Denzil",Hombre,47.0,0,0,15.0,Southamptom,Solo,Adultos
+587,588,Vivo,Primera,"Frolicher-Stehli, Mr. Maxmillian",Hombre,35.0,1,1,79.2,Cherbourg,Acompañado,Adultos
+588,589,Muerto,Tercera,"Gilinski, Mr. Eliezer",Hombre,22.0,0,0,8.05,Southamptom,Solo,Adultos
+589,590,Muerto,Tercera,"Murdlin, Mr. Joseph",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+590,591,Muerto,Tercera,"Rintamaki, Mr. Matti",Hombre,35.0,0,0,7.12,Southamptom,Solo,Adultos
+591,592,Vivo,Primera,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Mujer,52.0,1,0,78.27,Cherbourg,Acompañado,Mayores
+592,593,Muerto,Tercera,"Elsbury, Mr. William James",Hombre,47.0,0,0,7.25,Southamptom,Solo,Adultos
+593,594,Muerto,Tercera,"Bourke, Miss. Mary",Mujer,29.0,0,2,7.75,Queenstown,Acompañado,Adultos
+594,595,Muerto,Segunda,"Chapman, Mr. John Henry",Hombre,37.0,1,0,26.0,Southamptom,Acompañado,Adultos
+595,596,Muerto,Tercera,"Van Impe, Mr. Jean Baptiste",Hombre,36.0,1,1,24.15,Southamptom,Acompañado,Adultos
+596,597,Vivo,Segunda,"Leitch, Miss. Jessie Wills",Mujer,29.0,0,0,33.0,Southamptom,Solo,Adultos
+597,598,Muerto,Tercera,"Johnson, Mr. Alfred",Hombre,49.0,0,0,0.0,Southamptom,Solo,Adultos
+598,599,Muerto,Tercera,"Boulos, Mr. Hanna",Hombre,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+599,600,Vivo,Primera,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Hombre,49.0,1,0,56.93,Cherbourg,Acompañado,Adultos
+600,601,Vivo,Segunda,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Mujer,24.0,2,1,27.0,Southamptom,Acompañado,Adultos
+601,602,Muerto,Tercera,"Slabenoff, Mr. Petco",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+602,603,Muerto,Primera,"Harrington, Mr. Charles H",Hombre,29.0,0,0,42.4,Southamptom,Solo,Adultos
+603,604,Muerto,Tercera,"Torber, Mr. Ernst William",Hombre,44.0,0,0,8.05,Southamptom,Solo,Adultos
+604,605,Vivo,Primera,"Homer, Mr. Harry (""Mr E Haven"")",Hombre,35.0,0,0,26.55,Cherbourg,Solo,Adultos
+605,606,Muerto,Tercera,"Lindell, Mr. Edvard Bengtsson",Hombre,36.0,1,0,15.55,Southamptom,Acompañado,Adultos
+606,607,Muerto,Tercera,"Karaic, Mr. Milan",Hombre,30.0,0,0,7.9,Southamptom,Solo,Adultos
+607,608,Vivo,Primera,"Daniel, Mr. Robert Williams",Hombre,27.0,0,0,30.5,Southamptom,Solo,Adultos
+608,609,Vivo,Segunda,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Mujer,22.0,1,2,41.58,Cherbourg,Acompañado,Adultos
+609,610,Vivo,Primera,"Shutes, Miss. Elizabeth W",Mujer,40.0,0,0,153.46,Southamptom,Solo,Adultos
+610,611,Muerto,Tercera,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Mujer,39.0,1,5,31.28,Southamptom,Acompañado,Adultos
+611,612,Muerto,Tercera,"Jardin, Mr. Jose Neto",Hombre,29.0,0,0,7.05,Southamptom,Solo,Adultos
+612,613,Vivo,Tercera,"Murphy, Miss. Margaret Jane",Mujer,29.0,1,0,15.5,Queenstown,Acompañado,Adultos
+613,614,Muerto,Tercera,"Horgan, Mr. John",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+614,615,Muerto,Tercera,"Brocklebank, Mr. William Alfred",Hombre,35.0,0,0,8.05,Southamptom,Solo,Adultos
+615,616,Vivo,Segunda,"Herman, Miss. Alice",Mujer,24.0,1,2,65.0,Southamptom,Acompañado,Adultos
+616,617,Muerto,Tercera,"Danbom, Mr. Ernst Gilbert",Hombre,34.0,1,1,14.4,Southamptom,Acompañado,Adultos
+617,618,Muerto,Tercera,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Mujer,26.0,1,0,16.1,Southamptom,Acompañado,Adultos
+618,619,Vivo,Segunda,"Becker, Miss. Marion Louise",Mujer,4.0,2,1,39.0,Southamptom,Acompañado,Menores
+619,620,Muerto,Segunda,"Gavey, Mr. Lawrence",Hombre,26.0,0,0,10.5,Southamptom,Solo,Adultos
+620,621,Muerto,Tercera,"Yasbeck, Mr. Antoni",Hombre,27.0,1,0,14.45,Cherbourg,Acompañado,Adultos
+621,622,Vivo,Primera,"Kimball, Mr. Edwin Nelson Jr",Hombre,42.0,1,0,52.55,Southamptom,Acompañado,Adultos
+622,623,Vivo,Tercera,"Nakid, Mr. Sahid",Hombre,20.0,1,1,15.74,Cherbourg,Acompañado,Adultos
+623,624,Muerto,Tercera,"Hansen, Mr. Henry Damsgaard",Hombre,21.0,0,0,7.85,Southamptom,Solo,Adultos
+624,625,Muerto,Tercera,"Bowen, Mr. David John ""Dai""",Hombre,21.0,0,0,16.1,Southamptom,Solo,Adultos
+625,626,Muerto,Primera,"Sutton, Mr. Frederick",Hombre,35.0,0,0,32.32,Southamptom,Solo,Adultos
+626,627,Muerto,Segunda,"Kirkland, Rev. Charles Leonard",Hombre,35.0,0,0,12.35,Queenstown,Solo,Adultos
+627,628,Vivo,Primera,"Longley, Miss. Gretchen Fiske",Mujer,21.0,0,0,77.96,Southamptom,Solo,Adultos
+628,629,Muerto,Tercera,"Bostandyeff, Mr. Guentcho",Hombre,26.0,0,0,7.9,Southamptom,Solo,Adultos
+629,630,Muerto,Tercera,"O'Connell, Mr. Patrick D",Hombre,29.0,0,0,7.73,Queenstown,Solo,Adultos
+630,631,Vivo,Primera,"Barkworth, Mr. Algernon Henry Wilson",Hombre,35.0,0,0,30.0,Southamptom,Solo,Adultos
+631,632,Muerto,Tercera,"Lundahl, Mr. Johan Svensson",Hombre,51.0,0,0,7.05,Southamptom,Solo,Mayores
+632,633,Vivo,Primera,"Stahelin-Maeglin, Dr. Max",Hombre,32.0,0,0,30.5,Cherbourg,Solo,Adultos
+633,634,Muerto,Primera,"Parr, Mr. William Henry Marsh",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+634,635,Muerto,Tercera,"Skoog, Miss. Mabel",Mujer,9.0,3,2,27.9,Southamptom,Acompañado,Menores
+635,636,Vivo,Segunda,"Davis, Miss. Mary",Mujer,28.0,0,0,13.0,Southamptom,Solo,Adultos
+636,637,Muerto,Tercera,"Leinonen, Mr. Antti Gustaf",Hombre,32.0,0,0,7.92,Southamptom,Solo,Adultos
+637,638,Muerto,Segunda,"Collyer, Mr. Harvey",Hombre,31.0,1,1,26.25,Southamptom,Acompañado,Adultos
+638,639,Muerto,Tercera,"Panula, Mrs. Juha (Maria Emilia Ojala)",Mujer,41.0,0,5,39.69,Southamptom,Acompañado,Adultos
+639,640,Muerto,Tercera,"Thorneycroft, Mr. Percival",Hombre,29.0,1,0,16.1,Southamptom,Acompañado,Adultos
+640,641,Muerto,Tercera,"Jensen, Mr. Hans Peder",Hombre,20.0,0,0,7.85,Southamptom,Solo,Adultos
+641,642,Vivo,Primera,"Sagesser, Mlle. Emma",Mujer,24.0,0,0,69.3,Cherbourg,Solo,Adultos
+642,643,Muerto,Tercera,"Skoog, Miss. Margit Elizabeth",Mujer,22.0,3,2,27.9,Southamptom,Acompañado,Adultos
+643,644,Vivo,Tercera,"Foo, Mr. Choong",Hombre,29.0,0,0,56.5,Southamptom,Solo,Adultos
+644,645,Vivo,Tercera,"Baclini, Miss. Eugenie",Mujer,22.0,2,1,19.26,Cherbourg,Acompañado,Adultos
+645,646,Vivo,Primera,"Harper, Mr. Henry Sleeper",Hombre,48.0,1,0,76.73,Cherbourg,Acompañado,Adultos
+646,647,Muerto,Tercera,"Cor, Mr. Liudevit",Hombre,19.0,0,0,7.9,Southamptom,Solo,Adultos
+647,648,Vivo,Primera,"Simonius-Blumer, Col. Oberst Alfons",Hombre,35.0,0,0,35.5,Cherbourg,Solo,Adultos
+648,649,Muerto,Tercera,"Willey, Mr. Edward",Hombre,29.0,0,0,7.55,Southamptom,Solo,Adultos
+649,650,Vivo,Tercera,"Stanley, Miss. Amy Zillah Elsie",Mujer,23.0,0,0,7.55,Southamptom,Solo,Adultos
+650,651,Muerto,Tercera,"Mitkoff, Mr. Mito",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+651,652,Vivo,Segunda,"Doling, Miss. Elsie",Mujer,18.0,0,1,23.0,Southamptom,Acompañado,Adultos
+652,653,Muerto,Tercera,"Kalvik, Mr. Johannes Halvorsen",Hombre,21.0,0,0,8.43,Southamptom,Solo,Adultos
+653,654,Vivo,Tercera,"O'Leary, Miss. Hanora ""Norah""",Mujer,29.0,0,0,7.83,Queenstown,Solo,Adultos
+654,655,Muerto,Tercera,"Hegarty, Miss. Hanora ""Nora""",Mujer,18.0,0,0,6.75,Queenstown,Solo,Adultos
+655,656,Muerto,Segunda,"Hickman, Mr. Leonard Mark",Hombre,24.0,2,0,73.5,Southamptom,Acompañado,Adultos
+656,657,Muerto,Tercera,"Radeff, Mr. Alexander",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+657,658,Muerto,Tercera,"Bourke, Mrs. John (Catherine)",Mujer,32.0,1,1,15.5,Queenstown,Acompañado,Adultos
+658,659,Muerto,Segunda,"Eitemiller, Mr. George Floyd",Hombre,23.0,0,0,13.0,Southamptom,Solo,Adultos
+659,660,Muerto,Primera,"Newell, Mr. Arthur Webster",Hombre,35.0,0,2,113.28,Cherbourg,Acompañado,Adultos
+660,661,Vivo,Primera,"Frauenthal, Dr. Henry William",Hombre,50.0,2,0,133.65,Southamptom,Acompañado,Adultos
+661,662,Muerto,Tercera,"Badt, Mr. Mohamed",Hombre,40.0,0,0,7.22,Cherbourg,Solo,Adultos
+662,663,Muerto,Primera,"Colley, Mr. Edward Pomeroy",Hombre,47.0,0,0,25.59,Southamptom,Solo,Adultos
+663,664,Muerto,Tercera,"Coleff, Mr. Peju",Hombre,36.0,0,0,7.5,Southamptom,Solo,Adultos
+664,665,Vivo,Tercera,"Lindqvist, Mr. Eino William",Hombre,20.0,1,0,7.92,Southamptom,Acompañado,Adultos
+665,666,Muerto,Segunda,"Hickman, Mr. Lewis",Hombre,32.0,2,0,73.5,Southamptom,Acompañado,Adultos
+666,667,Muerto,Segunda,"Butler, Mr. Reginald Fenton",Hombre,25.0,0,0,13.0,Southamptom,Solo,Adultos
+667,668,Muerto,Tercera,"Rommetvedt, Mr. Knud Paust",Hombre,29.0,0,0,7.78,Southamptom,Solo,Adultos
+668,669,Muerto,Tercera,"Cook, Mr. Jacob",Hombre,43.0,0,0,8.05,Southamptom,Solo,Adultos
+669,670,Vivo,Primera,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Mujer,29.0,1,0,52.0,Southamptom,Acompañado,Adultos
+670,671,Vivo,Segunda,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Mujer,40.0,1,1,39.0,Southamptom,Acompañado,Adultos
+671,672,Muerto,Primera,"Davidson, Mr. Thornton",Hombre,31.0,1,0,52.0,Southamptom,Acompañado,Adultos
+672,673,Muerto,Segunda,"Mitchell, Mr. Henry Michael",Hombre,35.0,0,0,10.5,Southamptom,Solo,Adultos
+673,674,Vivo,Segunda,"Wilhelms, Mr. Charles",Hombre,31.0,0,0,13.0,Southamptom,Solo,Adultos
+674,675,Muerto,Segunda,"Watson, Mr. Ennis Hastings",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+675,676,Muerto,Tercera,"Edvardsson, Mr. Gustaf Hjalmar",Hombre,18.0,0,0,7.78,Southamptom,Solo,Adultos
+676,677,Muerto,Tercera,"Sawyer, Mr. Frederick Charles",Hombre,24.0,0,0,8.05,Southamptom,Solo,Adultos
+677,678,Vivo,Tercera,"Turja, Miss. Anna Sofia",Mujer,18.0,0,0,9.84,Southamptom,Solo,Adultos
+678,679,Muerto,Tercera,"Goodwin, Mrs. Frederick (Augusta Tyler)",Mujer,43.0,1,6,46.9,Southamptom,Acompañado,Adultos
+679,680,Vivo,Primera,"Cardeza, Mr. Thomas Drake Martinez",Hombre,36.0,0,1,512.33,Cherbourg,Acompañado,Adultos
+680,681,Muerto,Tercera,"Peters, Miss. Katie",Mujer,29.0,0,0,8.14,Queenstown,Solo,Adultos
+681,682,Vivo,Primera,"Hassab, Mr. Hammad",Hombre,27.0,0,0,76.73,Cherbourg,Solo,Adultos
+682,683,Muerto,Tercera,"Olsvigen, Mr. Thor Anderson",Hombre,20.0,0,0,9.22,Southamptom,Solo,Adultos
+683,684,Muerto,Tercera,"Goodwin, Mr. Charles Edward",Hombre,14.0,5,2,46.9,Southamptom,Acompañado,Menores
+684,685,Muerto,Segunda,"Brown, Mr. Thomas William Solomon",Hombre,35.0,1,1,39.0,Southamptom,Acompañado,Adultos
+685,686,Muerto,Segunda,"Laroche, Mr. Joseph Philippe Lemercier",Hombre,25.0,1,2,41.58,Cherbourg,Acompañado,Adultos
+686,687,Muerto,Tercera,"Panula, Mr. Jaako Arnold",Hombre,14.0,4,1,39.69,Southamptom,Acompañado,Menores
+687,688,Muerto,Tercera,"Dakic, Mr. Branko",Hombre,19.0,0,0,10.17,Southamptom,Solo,Adultos
+688,689,Muerto,Tercera,"Fischer, Mr. Eberhard Thelander",Hombre,18.0,0,0,7.8,Southamptom,Solo,Adultos
+689,690,Vivo,Primera,"Madill, Miss. Georgette Alexandra",Mujer,15.0,0,1,211.34,Southamptom,Acompañado,Menores
+690,691,Vivo,Primera,"Dick, Mr. Albert Adrian",Hombre,31.0,1,0,57.0,Southamptom,Acompañado,Adultos
+691,692,Vivo,Tercera,"Karun, Miss. Manca",Mujer,4.0,0,1,13.42,Cherbourg,Acompañado,Menores
+692,693,Vivo,Tercera,"Lam, Mr. Ali",Hombre,29.0,0,0,56.5,Southamptom,Solo,Adultos
+693,694,Muerto,Tercera,"Saad, Mr. Khalil",Hombre,25.0,0,0,7.22,Cherbourg,Solo,Adultos
+694,695,Muerto,Primera,"Weir, Col. John",Hombre,35.0,0,0,26.55,Southamptom,Solo,Adultos
+695,696,Muerto,Segunda,"Chapman, Mr. Charles Henry",Hombre,52.0,0,0,13.5,Southamptom,Solo,Mayores
+696,697,Muerto,Tercera,"Kelly, Mr. James",Hombre,44.0,0,0,8.05,Southamptom,Solo,Adultos
+697,698,Vivo,Tercera,"Mullens, Miss. Katherine ""Katie""",Mujer,29.0,0,0,7.73,Queenstown,Solo,Adultos
+698,699,Muerto,Primera,"Thayer, Mr. John Borland",Hombre,49.0,1,1,110.88,Cherbourg,Acompañado,Adultos
+699,700,Muerto,Tercera,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Hombre,42.0,0,0,7.65,Southamptom,Solo,Adultos
+700,701,Vivo,Primera,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Mujer,18.0,1,0,227.52,Cherbourg,Acompañado,Adultos
+701,702,Vivo,Primera,"Silverthorne, Mr. Spencer Victor",Hombre,35.0,0,0,26.29,Southamptom,Solo,Adultos
+702,703,Muerto,Tercera,"Barbara, Miss. Saiide",Mujer,18.0,0,1,14.45,Cherbourg,Acompañado,Adultos
+703,704,Muerto,Tercera,"Gallagher, Mr. Martin",Hombre,25.0,0,0,7.74,Queenstown,Solo,Adultos
+704,705,Muerto,Tercera,"Hansen, Mr. Henrik Juul",Hombre,26.0,1,0,7.85,Southamptom,Acompañado,Adultos
+705,706,Muerto,Segunda,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Hombre,39.0,0,0,26.0,Southamptom,Solo,Adultos
+706,707,Vivo,Segunda,"Kelly, Mrs. Florence ""Fannie""",Mujer,45.0,0,0,13.5,Southamptom,Solo,Adultos
+707,708,Vivo,Primera,"Calderhead, Mr. Edward Pennington",Hombre,42.0,0,0,26.29,Southamptom,Solo,Adultos
+708,709,Vivo,Primera,"Cleaver, Miss. Alice",Mujer,22.0,0,0,151.55,Southamptom,Solo,Adultos
+709,710,Vivo,Tercera,"Moubarek, Master. Halim Gonios (""William George"")",Hombre,29.0,1,1,15.25,Cherbourg,Acompañado,Adultos
+710,711,Vivo,Primera,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Mujer,24.0,0,0,49.5,Cherbourg,Solo,Adultos
+711,712,Muerto,Primera,"Klaber, Mr. Herman",Hombre,29.0,0,0,26.55,Southamptom,Solo,Adultos
+712,713,Vivo,Primera,"Taylor, Mr. Elmer Zebley",Hombre,48.0,1,0,52.0,Southamptom,Acompañado,Adultos
+713,714,Muerto,Tercera,"Larsson, Mr. August Viktor",Hombre,29.0,0,0,9.48,Southamptom,Solo,Adultos
+714,715,Muerto,Segunda,"Greenberg, Mr. Samuel",Hombre,52.0,0,0,13.0,Southamptom,Solo,Mayores
+715,716,Muerto,Tercera,"Soholt, Mr. Peter Andreas Lauritz Andersen",Hombre,19.0,0,0,7.65,Southamptom,Solo,Adultos
+716,717,Vivo,Primera,"Endres, Miss. Caroline Louise",Mujer,38.0,0,0,227.52,Cherbourg,Solo,Adultos
+717,718,Vivo,Segunda,"Troutt, Miss. Edwina Celia ""Winnie""",Mujer,27.0,0,0,10.5,Southamptom,Solo,Adultos
+718,719,Muerto,Tercera,"McEvoy, Mr. Michael",Hombre,29.0,0,0,15.5,Queenstown,Solo,Adultos
+719,720,Muerto,Tercera,"Johnson, Mr. Malkolm Joackim",Hombre,33.0,0,0,7.78,Southamptom,Solo,Adultos
+720,721,Vivo,Segunda,"Harper, Miss. Annie Jessie ""Nina""",Mujer,6.0,0,1,33.0,Southamptom,Acompañado,Menores
+721,722,Muerto,Tercera,"Jensen, Mr. Svend Lauritz",Hombre,17.0,1,0,7.05,Southamptom,Acompañado,Adultos
+722,723,Muerto,Segunda,"Gillespie, Mr. William Henry",Hombre,34.0,0,0,13.0,Southamptom,Solo,Adultos
+723,724,Muerto,Segunda,"Hodges, Mr. Henry Price",Hombre,50.0,0,0,13.0,Southamptom,Solo,Adultos
+724,725,Vivo,Primera,"Chambers, Mr. Norman Campbell",Hombre,27.0,1,0,53.1,Southamptom,Acompañado,Adultos
+725,726,Muerto,Tercera,"Oreskovic, Mr. Luka",Hombre,20.0,0,0,8.66,Southamptom,Solo,Adultos
+726,727,Vivo,Segunda,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Mujer,30.0,3,0,21.0,Southamptom,Acompañado,Adultos
+727,728,Vivo,Tercera,"Mannion, Miss. Margareth",Mujer,29.0,0,0,7.74,Queenstown,Solo,Adultos
+728,729,Muerto,Segunda,"Bryhl, Mr. Kurt Arnold Gottfrid",Hombre,25.0,1,0,26.0,Southamptom,Acompañado,Adultos
+729,730,Muerto,Tercera,"Ilmakangas, Miss. Pieta Sofia",Mujer,25.0,1,0,7.92,Southamptom,Acompañado,Adultos
+730,731,Vivo,Primera,"Allen, Miss. Elisabeth Walton",Mujer,29.0,0,0,211.34,Southamptom,Solo,Adultos
+731,732,Muerto,Tercera,"Hassan, Mr. Houssein G N",Hombre,11.0,0,0,18.79,Cherbourg,Solo,Menores
+732,733,Muerto,Segunda,"Knight, Mr. Robert J",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+733,734,Muerto,Segunda,"Berriman, Mr. William John",Hombre,23.0,0,0,13.0,Southamptom,Solo,Adultos
+734,735,Muerto,Segunda,"Troupiansky, Mr. Moses Aaron",Hombre,23.0,0,0,13.0,Southamptom,Solo,Adultos
+735,736,Muerto,Tercera,"Williams, Mr. Leslie",Hombre,28.0,0,0,16.1,Southamptom,Solo,Adultos
+736,737,Muerto,Tercera,"Ford, Mrs. Edward (Margaret Ann Watson)",Mujer,48.0,1,3,34.38,Southamptom,Acompañado,Adultos
+737,738,Vivo,Primera,"Lesurer, Mr. Gustave J",Hombre,35.0,0,0,512.33,Cherbourg,Solo,Adultos
+738,739,Muerto,Tercera,"Ivanoff, Mr. Kanio",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+739,740,Muerto,Tercera,"Nankoff, Mr. Minko",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+740,741,Vivo,Primera,"Hawksford, Mr. Walter James",Hombre,29.0,0,0,30.0,Southamptom,Solo,Adultos
+741,742,Muerto,Primera,"Cavendish, Mr. Tyrell William",Hombre,36.0,1,0,78.85,Southamptom,Acompañado,Adultos
+742,743,Vivo,Primera,"Ryerson, Miss. Susan Parker ""Suzette""",Mujer,21.0,2,2,262.38,Cherbourg,Acompañado,Adultos
+743,744,Muerto,Tercera,"McNamee, Mr. Neal",Hombre,24.0,1,0,16.1,Southamptom,Acompañado,Adultos
+744,745,Vivo,Tercera,"Stranden, Mr. Juho",Hombre,31.0,0,0,7.92,Southamptom,Solo,Adultos
+745,746,Muerto,Primera,"Crosby, Capt. Edward Gifford",Hombre,35.0,1,1,71.0,Southamptom,Acompañado,Adultos
+746,747,Muerto,Tercera,"Abbott, Mr. Rossmore Edward",Hombre,16.0,1,1,20.25,Southamptom,Acompañado,Adultos
+747,748,Vivo,Segunda,"Sinkkonen, Miss. Anna",Mujer,30.0,0,0,13.0,Southamptom,Solo,Adultos
+748,749,Muerto,Primera,"Marvin, Mr. Daniel Warner",Hombre,19.0,1,0,53.1,Southamptom,Acompañado,Adultos
+749,750,Muerto,Tercera,"Connaghton, Mr. Michael",Hombre,31.0,0,0,7.75,Queenstown,Solo,Adultos
+750,751,Vivo,Segunda,"Wells, Miss. Joan",Mujer,4.0,1,1,23.0,Southamptom,Acompañado,Menores
+751,752,Vivo,Tercera,"Moor, Master. Meier",Hombre,6.0,0,1,12.48,Southamptom,Acompañado,Menores
+752,753,Muerto,Tercera,"Vande Velde, Mr. Johannes Joseph",Hombre,33.0,0,0,9.5,Southamptom,Solo,Adultos
+753,754,Muerto,Tercera,"Jonkoff, Mr. Lalio",Hombre,23.0,0,0,7.9,Southamptom,Solo,Adultos
+754,755,Vivo,Segunda,"Herman, Mrs. Samuel (Jane Laver)",Mujer,48.0,1,2,65.0,Southamptom,Acompañado,Adultos
+755,756,Vivo,Segunda,"Hamalainen, Master. Viljo",Hombre,22.0,1,1,14.5,Southamptom,Acompañado,Adultos
+756,757,Muerto,Tercera,"Carlsson, Mr. August Sigfrid",Hombre,28.0,0,0,7.8,Southamptom,Solo,Adultos
+757,758,Muerto,Segunda,"Bailey, Mr. Percy Andrew",Hombre,18.0,0,0,11.5,Southamptom,Solo,Adultos
+758,759,Muerto,Tercera,"Theobald, Mr. Thomas Leonard",Hombre,34.0,0,0,8.05,Southamptom,Solo,Adultos
+759,760,Vivo,Primera,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Mujer,33.0,0,0,86.5,Southamptom,Solo,Adultos
+760,761,Muerto,Tercera,"Garfirth, Mr. John",Hombre,29.0,0,0,14.5,Southamptom,Solo,Adultos
+761,762,Muerto,Tercera,"Nirva, Mr. Iisakki Antino Aijo",Hombre,41.0,0,0,7.12,Southamptom,Solo,Adultos
+762,763,Vivo,Tercera,"Barah, Mr. Hanna Assi",Hombre,20.0,0,0,7.23,Cherbourg,Solo,Adultos
+763,764,Vivo,Primera,"Carter, Mrs. William Ernest (Lucile Polk)",Mujer,36.0,1,2,120.0,Southamptom,Acompañado,Adultos
+764,765,Muerto,Tercera,"Eklund, Mr. Hans Linus",Hombre,16.0,0,0,7.78,Southamptom,Solo,Adultos
+765,766,Vivo,Primera,"Hogeboom, Mrs. John C (Anna Andrews)",Mujer,51.0,1,0,77.96,Southamptom,Acompañado,Mayores
+766,767,Muerto,Primera,"Brewe, Dr. Arthur Jackson",Hombre,29.0,0,0,39.6,Cherbourg,Solo,Adultos
+767,768,Muerto,Tercera,"Mangan, Miss. Mary",Mujer,30.0,0,0,7.75,Queenstown,Solo,Adultos
+768,769,Muerto,Tercera,"Moran, Mr. Daniel J",Hombre,29.0,1,0,24.15,Queenstown,Acompañado,Adultos
+769,770,Muerto,Tercera,"Gronnestad, Mr. Daniel Danielsen",Hombre,32.0,0,0,8.36,Southamptom,Solo,Adultos
+770,771,Muerto,Tercera,"Lievens, Mr. Rene Aime",Hombre,24.0,0,0,9.5,Southamptom,Solo,Adultos
+771,772,Muerto,Tercera,"Jensen, Mr. Niels Peder",Hombre,48.0,0,0,7.85,Southamptom,Solo,Adultos
+772,773,Muerto,Segunda,"Mack, Mrs. (Mary)",Mujer,35.0,0,0,10.5,Southamptom,Solo,Adultos
+773,774,Muerto,Tercera,"Elias, Mr. Dibo",Hombre,29.0,0,0,7.22,Cherbourg,Solo,Adultos
+774,775,Vivo,Segunda,"Hocking, Mrs. Elizabeth (Eliza Needs)",Mujer,54.0,1,3,23.0,Southamptom,Acompañado,Mayores
+775,776,Muerto,Tercera,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Hombre,18.0,0,0,7.75,Southamptom,Solo,Adultos
+776,777,Muerto,Tercera,"Tobin, Mr. Roger",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+777,778,Vivo,Tercera,"Emanuel, Miss. Virginia Ethel",Mujer,5.0,0,0,12.48,Southamptom,Solo,Menores
+778,779,Muerto,Tercera,"Kilgannon, Mr. Thomas J",Hombre,29.0,0,0,7.74,Queenstown,Solo,Adultos
+779,780,Vivo,Primera,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Mujer,43.0,0,1,211.34,Southamptom,Acompañado,Adultos
+780,781,Vivo,Tercera,"Ayoub, Miss. Banoura",Mujer,13.0,0,0,7.23,Cherbourg,Solo,Menores
+781,782,Vivo,Primera,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Mujer,17.0,1,0,57.0,Southamptom,Acompañado,Adultos
+782,783,Muerto,Primera,"Long, Mr. Milton Clyde",Hombre,29.0,0,0,30.0,Southamptom,Solo,Adultos
+783,784,Muerto,Tercera,"Johnston, Mr. Andrew G",Hombre,29.0,1,2,23.45,Southamptom,Acompañado,Adultos
+784,785,Muerto,Tercera,"Ali, Mr. William",Hombre,25.0,0,0,7.05,Southamptom,Solo,Adultos
+785,786,Muerto,Tercera,"Harmer, Mr. Abraham (David Lishin)",Hombre,25.0,0,0,7.25,Southamptom,Solo,Adultos
+786,787,Vivo,Tercera,"Sjoblom, Miss. Anna Sofia",Mujer,18.0,0,0,7.5,Southamptom,Solo,Adultos
+787,788,Muerto,Tercera,"Rice, Master. George Hugh",Hombre,8.0,4,1,29.12,Queenstown,Acompañado,Menores
+788,789,Vivo,Tercera,"Dean, Master. Bertram Vere",Hombre,22.0,1,2,20.58,Southamptom,Acompañado,Adultos
+789,790,Muerto,Primera,"Guggenheim, Mr. Benjamin",Hombre,46.0,0,0,79.2,Cherbourg,Solo,Adultos
+790,791,Muerto,Tercera,"Keane, Mr. Andrew ""Andy""",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+791,792,Muerto,Segunda,"Gaskell, Mr. Alfred",Hombre,16.0,0,0,26.0,Southamptom,Solo,Adultos
+792,793,Muerto,Tercera,"Sage, Miss. Stella Anna",Mujer,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+793,794,Muerto,Primera,"Hoyt, Mr. William Fisher",Hombre,29.0,0,0,30.7,Cherbourg,Solo,Adultos
+794,795,Muerto,Tercera,"Dantcheff, Mr. Ristiu",Hombre,25.0,0,0,7.9,Southamptom,Solo,Adultos
+795,796,Muerto,Segunda,"Otter, Mr. Richard",Hombre,39.0,0,0,13.0,Southamptom,Solo,Adultos
+796,797,Vivo,Primera,"Leader, Dr. Alice (Farnham)",Mujer,49.0,0,0,25.93,Southamptom,Solo,Adultos
+797,798,Vivo,Tercera,"Osman, Mrs. Mara",Mujer,31.0,0,0,8.68,Southamptom,Solo,Adultos
+798,799,Muerto,Tercera,"Ibrahim Shawah, Mr. Yousseff",Hombre,30.0,0,0,7.23,Cherbourg,Solo,Adultos
+799,800,Muerto,Tercera,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Mujer,30.0,1,1,24.15,Southamptom,Acompañado,Adultos
+800,801,Muerto,Segunda,"Ponesell, Mr. Martin",Hombre,34.0,0,0,13.0,Southamptom,Solo,Adultos
+801,802,Vivo,Segunda,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Mujer,31.0,1,1,26.25,Southamptom,Acompañado,Adultos
+802,803,Vivo,Primera,"Carter, Master. William Thornton II",Hombre,11.0,1,2,120.0,Southamptom,Acompañado,Menores
+803,804,Vivo,Tercera,"Thomas, Master. Assad Alexander",Hombre,22.0,0,1,8.52,Cherbourg,Acompañado,Adultos
+804,805,Vivo,Tercera,"Hedman, Mr. Oskar Arvid",Hombre,27.0,0,0,6.98,Southamptom,Solo,Adultos
+805,806,Muerto,Tercera,"Johansson, Mr. Karl Johan",Hombre,31.0,0,0,7.78,Southamptom,Solo,Adultos
+806,807,Muerto,Primera,"Andrews, Mr. Thomas Jr",Hombre,39.0,0,0,0.0,Southamptom,Solo,Adultos
+807,808,Muerto,Tercera,"Pettersson, Miss. Ellen Natalia",Mujer,18.0,0,0,7.78,Southamptom,Solo,Adultos
+808,809,Muerto,Segunda,"Meyer, Mr. August",Hombre,39.0,0,0,13.0,Southamptom,Solo,Adultos
+809,810,Vivo,Primera,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Mujer,33.0,1,0,53.1,Southamptom,Acompañado,Adultos
+810,811,Muerto,Tercera,"Alexander, Mr. William",Hombre,26.0,0,0,7.89,Southamptom,Solo,Adultos
+811,812,Muerto,Tercera,"Lester, Mr. James",Hombre,39.0,0,0,24.15,Southamptom,Solo,Adultos
+812,813,Muerto,Segunda,"Slemen, Mr. Richard James",Hombre,35.0,0,0,10.5,Southamptom,Solo,Adultos
+813,814,Muerto,Tercera,"Andersson, Miss. Ebba Iris Alfrida",Mujer,6.0,4,2,31.28,Southamptom,Acompañado,Menores
+814,815,Muerto,Tercera,"Tomlin, Mr. Ernest Portage",Hombre,30.0,0,0,8.05,Southamptom,Solo,Adultos
+815,816,Muerto,Primera,"Fry, Mr. Richard",Hombre,29.0,0,0,0.0,Southamptom,Solo,Adultos
+816,817,Muerto,Tercera,"Heininen, Miss. Wendla Maria",Mujer,23.0,0,0,7.92,Southamptom,Solo,Adultos
+817,818,Muerto,Segunda,"Mallet, Mr. Albert",Hombre,31.0,1,1,37.0,Cherbourg,Acompañado,Adultos
+818,819,Muerto,Tercera,"Holm, Mr. John Fredrik Alexander",Hombre,43.0,0,0,6.45,Southamptom,Solo,Adultos
+819,820,Muerto,Tercera,"Skoog, Master. Karl Thorsten",Hombre,10.0,3,2,27.9,Southamptom,Acompañado,Menores
+820,821,Vivo,Primera,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Mujer,52.0,1,1,93.5,Southamptom,Acompañado,Mayores
+821,822,Vivo,Tercera,"Lulic, Mr. Nikola",Hombre,27.0,0,0,8.66,Southamptom,Solo,Adultos
+822,823,Muerto,Primera,"Reuchlin, Jonkheer. John George",Hombre,38.0,0,0,0.0,Southamptom,Solo,Adultos
+823,824,Vivo,Tercera,"Moor, Mrs. (Beila)",Mujer,27.0,0,1,12.48,Southamptom,Acompañado,Adultos
+824,825,Muerto,Tercera,"Panula, Master. Urho Abraham",Hombre,22.0,4,1,39.69,Southamptom,Acompañado,Adultos
+825,826,Muerto,Tercera,"Flynn, Mr. John",Hombre,29.0,0,0,6.95,Queenstown,Solo,Adultos
+826,827,Muerto,Tercera,"Lam, Mr. Len",Hombre,29.0,0,0,56.5,Southamptom,Solo,Adultos
+827,828,Vivo,Segunda,"Mallet, Master. Andre",Hombre,22.0,0,2,37.0,Cherbourg,Acompañado,Adultos
+828,829,Vivo,Tercera,"McCormack, Mr. Thomas Joseph",Hombre,29.0,0,0,7.75,Queenstown,Solo,Adultos
+829,830,Vivo,Primera,"Stone, Mrs. George Nelson (Martha Evelyn)",Mujer,35.0,0,0,80.0,Southamptom,Solo,Adultos
+830,831,Vivo,Tercera,"Yasbeck, Mrs. Antoni (Selini Alexander)",Mujer,15.0,1,0,14.45,Cherbourg,Acompañado,Menores
+831,832,Vivo,Segunda,"Richards, Master. George Sibley",Hombre,22.0,1,1,18.75,Southamptom,Acompañado,Adultos
+832,833,Muerto,Tercera,"Saad, Mr. Amin",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+833,834,Muerto,Tercera,"Augustsson, Mr. Albert",Hombre,23.0,0,0,7.85,Southamptom,Solo,Adultos
+834,835,Muerto,Tercera,"Allum, Mr. Owen George",Hombre,18.0,0,0,8.3,Southamptom,Solo,Adultos
+835,836,Vivo,Primera,"Compton, Miss. Sara Rebecca",Mujer,39.0,1,1,83.16,Cherbourg,Acompañado,Adultos
+836,837,Muerto,Tercera,"Pasic, Mr. Jakob",Hombre,21.0,0,0,8.66,Southamptom,Solo,Adultos
+837,838,Muerto,Tercera,"Sirota, Mr. Maurice",Hombre,29.0,0,0,8.05,Southamptom,Solo,Adultos
+838,839,Vivo,Tercera,"Chip, Mr. Chang",Hombre,32.0,0,0,56.5,Southamptom,Solo,Adultos
+839,840,Vivo,Primera,"Marechal, Mr. Pierre",Hombre,29.0,0,0,29.7,Cherbourg,Solo,Adultos
+840,841,Muerto,Tercera,"Alhomaki, Mr. Ilmari Rudolf",Hombre,20.0,0,0,7.92,Southamptom,Solo,Adultos
+841,842,Muerto,Segunda,"Mudd, Mr. Thomas Charles",Hombre,16.0,0,0,10.5,Southamptom,Solo,Adultos
+842,843,Vivo,Primera,"Serepeca, Miss. Augusta",Mujer,30.0,0,0,31.0,Cherbourg,Solo,Adultos
+843,844,Muerto,Tercera,"Lemberopolous, Mr. Peter L",Hombre,34.0,0,0,6.44,Cherbourg,Solo,Adultos
+844,845,Muerto,Tercera,"Culumovic, Mr. Jeso",Hombre,17.0,0,0,8.66,Southamptom,Solo,Adultos
+845,846,Muerto,Tercera,"Abbing, Mr. Anthony",Hombre,42.0,0,0,7.55,Southamptom,Solo,Adultos
+846,847,Muerto,Tercera,"Sage, Mr. Douglas Bullen",Hombre,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+847,848,Muerto,Tercera,"Markoff, Mr. Marin",Hombre,35.0,0,0,7.9,Cherbourg,Solo,Adultos
+848,849,Muerto,Segunda,"Harper, Rev. John",Hombre,28.0,0,1,33.0,Southamptom,Acompañado,Adultos
+849,850,Vivo,Primera,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Mujer,29.0,1,0,89.1,Cherbourg,Acompañado,Adultos
+850,851,Muerto,Tercera,"Andersson, Master. Sigvard Harald Elias",Hombre,4.0,4,2,31.28,Southamptom,Acompañado,Menores
+851,852,Muerto,Tercera,"Svensson, Mr. Johan",Hombre,35.0,0,0,7.78,Southamptom,Solo,Adultos
+852,853,Muerto,Tercera,"Boulos, Miss. Nourelain",Mujer,9.0,1,1,15.25,Cherbourg,Acompañado,Menores
+853,854,Vivo,Primera,"Lines, Miss. Mary Conover",Mujer,16.0,0,1,39.4,Southamptom,Acompañado,Adultos
+854,855,Muerto,Segunda,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Mujer,44.0,1,0,26.0,Southamptom,Acompañado,Adultos
+855,856,Vivo,Tercera,"Aks, Mrs. Sam (Leah Rosen)",Mujer,18.0,0,1,9.35,Southamptom,Acompañado,Adultos
+856,857,Vivo,Primera,"Wick, Mrs. George Dennick (Mary Hitchcock)",Mujer,45.0,1,1,164.87,Southamptom,Acompañado,Adultos
+857,858,Vivo,Primera,"Daly, Mr. Peter Denis ",Hombre,51.0,0,0,26.55,Southamptom,Solo,Mayores
+858,859,Vivo,Tercera,"Baclini, Mrs. Solomon (Latifa Qurban)",Mujer,24.0,0,3,19.26,Cherbourg,Acompañado,Adultos
+859,860,Muerto,Tercera,"Razi, Mr. Raihed",Hombre,29.0,0,0,7.23,Cherbourg,Solo,Adultos
+860,861,Muerto,Tercera,"Hansen, Mr. Claus Peter",Hombre,41.0,2,0,14.11,Southamptom,Acompañado,Adultos
+861,862,Muerto,Segunda,"Giles, Mr. Frederick Edward",Hombre,21.0,1,0,11.5,Southamptom,Acompañado,Adultos
+862,863,Vivo,Primera,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Mujer,48.0,0,0,25.93,Southamptom,Solo,Adultos
+863,864,Muerto,Tercera,"Sage, Miss. Dorothy Edith ""Dolly""",Mujer,29.0,8,2,69.55,Southamptom,Acompañado,Adultos
+864,865,Muerto,Segunda,"Gill, Mr. John William",Hombre,24.0,0,0,13.0,Southamptom,Solo,Adultos
+865,866,Vivo,Segunda,"Bystrom, Mrs. (Karolina)",Mujer,42.0,0,0,13.0,Southamptom,Solo,Adultos
+866,867,Vivo,Segunda,"Duran y More, Miss. Asuncion",Mujer,27.0,1,0,13.86,Cherbourg,Acompañado,Adultos
+867,868,Muerto,Primera,"Roebling, Mr. Washington Augustus II",Hombre,31.0,0,0,50.5,Southamptom,Solo,Adultos
+868,869,Muerto,Tercera,"van Melkebeke, Mr. Philemon",Hombre,29.0,0,0,9.5,Southamptom,Solo,Adultos
+869,870,Vivo,Tercera,"Johnson, Master. Harold Theodor",Hombre,4.0,1,1,11.13,Southamptom,Acompañado,Menores
+870,871,Muerto,Tercera,"Balkic, Mr. Cerin",Hombre,26.0,0,0,7.9,Southamptom,Solo,Adultos
+871,872,Vivo,Primera,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Mujer,47.0,1,1,52.55,Southamptom,Acompañado,Adultos
+872,873,Muerto,Primera,"Carlsson, Mr. Frans Olof",Hombre,33.0,0,0,5.0,Southamptom,Solo,Adultos
+873,874,Muerto,Tercera,"Vander Cruyssen, Mr. Victor",Hombre,47.0,0,0,9.0,Southamptom,Solo,Adultos
+874,875,Vivo,Segunda,"Abelson, Mrs. Samuel (Hannah Wizosky)",Mujer,28.0,1,0,24.0,Cherbourg,Acompañado,Adultos
+875,876,Vivo,Tercera,"Najib, Miss. Adele Kiamie ""Jane""",Mujer,15.0,0,0,7.22,Cherbourg,Solo,Menores
+876,877,Muerto,Tercera,"Gustafsson, Mr. Alfred Ossian",Hombre,20.0,0,0,9.85,Southamptom,Solo,Adultos
+877,878,Muerto,Tercera,"Petroff, Mr. Nedelio",Hombre,19.0,0,0,7.9,Southamptom,Solo,Adultos
+878,879,Muerto,Tercera,"Laleff, Mr. Kristo",Hombre,29.0,0,0,7.9,Southamptom,Solo,Adultos
+879,880,Vivo,Primera,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Mujer,35.0,0,1,83.16,Cherbourg,Acompañado,Adultos
+880,881,Vivo,Segunda,"Shelley, Mrs. William (Imanita Parrish Hall)",Mujer,25.0,0,1,26.0,Southamptom,Acompañado,Adultos
+881,882,Muerto,Tercera,"Markun, Mr. Johann",Hombre,33.0,0,0,7.9,Southamptom,Solo,Adultos
+882,883,Muerto,Tercera,"Dahlberg, Miss. Gerda Ulrika",Mujer,22.0,0,0,10.52,Southamptom,Solo,Adultos
+883,884,Muerto,Segunda,"Banfield, Mr. Frederick James",Hombre,28.0,0,0,10.5,Southamptom,Solo,Adultos
+884,885,Muerto,Tercera,"Sutehall, Mr. Henry Jr",Hombre,25.0,0,0,7.05,Southamptom,Solo,Adultos
+885,886,Muerto,Tercera,"Rice, Mrs. William (Margaret Norton)",Mujer,39.0,0,5,29.12,Queenstown,Acompañado,Adultos
+886,887,Muerto,Segunda,"Montvila, Rev. Juozas",Hombre,27.0,0,0,13.0,Southamptom,Solo,Adultos
+887,888,Vivo,Primera,"Graham, Miss. Margaret Edith",Mujer,19.0,0,0,30.0,Southamptom,Solo,Adultos
+888,889,Muerto,Tercera,"Johnston, Miss. Catherine Helen ""Carrie""",Mujer,29.0,1,2,23.45,Southamptom,Acompañado,Adultos
+889,890,Vivo,Primera,"Behr, Mr. Karl Howell",Hombre,26.0,0,0,30.0,Cherbourg,Solo,Adultos
+890,891,Muerto,Tercera,"Dooley, Mr. Patrick",Hombre,32.0,0,0,7.75,Queenstown,Solo,Adultos
